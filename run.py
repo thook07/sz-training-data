@@ -203,7 +203,7 @@ def processQuizData():
             exit("ERROR - File Not Found: " + CONFIG.QuizData[quizId]["display_name"] + " has not been processed. Is the Excel file downloaded?")       
     displayText("Analyzing Quiz Results", True)
     displayText(str(QUIZ_ATTEMPTS) + " quiz attempts were processed.")
-    displayText("All Quiz Data was written to " + str(CONFIG.OutputDirectory) + "/" str(CONFIG.TrainingDataFile))
+    displayText("All Quiz Data was written to " + str(CONFIG.OutputDirectory) + "/" + str(CONFIG.TrainingDataFile))
 
 def loadConfig():
     displayText("Loading Configuration...", True)
