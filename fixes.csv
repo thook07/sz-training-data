@@ -1,0 +1,225 @@
+# This file allows us to make all the manual fixes all in one place
+# The format should be: 
+# quizName, quizId (1st column in spreadsheet), email (that matches partner)
+# Here are the quizNames you should use
+# 101
+# 201
+# Lesson 00
+# Lesson 01
+# Lesson 02
+# Lesson 03
+# Lesson 04
+# Lesson 05
+# Lesson 06
+# Lesson 0708
+# Lesson 09
+# Lesson 1011
+# Lesson 12
+# Lesson 13
+# Lesson 14
+# Lesson 16
+#
+101,1,skip
+101,2,skip
+101,3,skip
+101,4,skip
+101,5,mwinslow@secureitsource.com
+101,6,skip
+101,7,Justin.Haines@optiv.com
+101,8,Benjamin.Oriold@edgile.com
+101,9,skip
+101,10,kconverse@secureitsource.com
+101,11,skip
+101,12,mwinslow@secureitsource.com
+101,13,vcraven@focal-point.com
+101,14,jllovet@secureitsource.com
+101,15,Benjamin.Oriold@edgile.com
+101,16,MRios@focal-point.com
+101,17,marc.mcgee@mansfieldllc.com
+101,18,Tim.Neatrour@credenceia.com
+101,19,Tim.Neatrour@credenceia.com
+101,20,thrinaath.vajragowni@credenceia.com
+101,21,james.carroll@idmworks.com
+101,22,john.lefebvre@credenceia.com
+101,23,john.lefebvre@credenceia.com
+101,47,skip
+101,56,skip
+201,1,skip
+201,2,mwinslow@secureitsource.com
+201,3,paul.kohler@s3-llc.com
+201,4,paul.kohler@s3-llc.com
+201,5,Eric.Mach@edgile.com
+201,6,Benjamin.Oriold@edgile.com
+201,7,kconverse@secureitsource.com
+201,8,mwinslow@secureitsource.com
+201,9,mwinslow@secureitsource.com
+201,10,vcraven@focal-point.com
+201,11,jllovet@secureitsource.com
+201,12,MRios@focal-point.com
+201,13,Tim.Neatrour@credenceia.com
+201,14,Tim.Neatrour@credenceia.com
+201,15,thrinaath.vajragowni@credenceia.com
+201,16,thrinaath.vajragowni@credenceia.com
+201,17,thrinaath.vajragowni@credenceia.com
+Lesson 00,1,mwinslow@secureitsource.com
+Lesson 00,2,Faye.Jacobs@optiv.com
+Lesson 00,3,kconverse@secureitsource.com
+Lesson 00,4,kconverse@secureitsource.com
+Lesson 00,5,Eric.Mach@edgile.com
+Lesson 00,6,Benjamin.Oriold@edgile.com
+Lesson 00,7,Benjamin.Oriold@edgile.com
+Lesson 00,8,skip
+Lesson 00,9,cunderwood@secureitsource.com
+Lesson 00,10,mwinslow@secureitsource.com
+Lesson 00,11,jllovet@secureitsource.com
+Lesson 00,12,deni.letts@idmworks.com
+Lesson 00,13,deni.letts@idmworks.com
+Lesson 00,14,jmocarski@secureitsource.com
+Lesson 00,15,marc.mcgee@mansfieldllc.com
+Lesson 00,16,MRios@focal-point.com
+Lesson 00,17,MRios@focal-point.com
+Lesson 00,18,vcraven@focal-point.com
+Lesson 00,19,Tim.Neatrour@credenceia.com
+Lesson 00,20,Tim.Neatrour@credenceia.com
+Lesson 00,21,thrinaath.vajragowni@credenceia.com
+Lesson 00,22,Justin.Haines@optiv.com
+Lesson 00,33,skip
+Lesson 00,47,skip
+Lesson 01,1,mwinslow@secureitsource.com
+Lesson 01,2,Faye.Jacobs@optiv.com
+Lesson 01,3,Eric.Mach@edgile.com
+Lesson 01,5,kconverse@secureitsource.com
+Lesson 01,6,kconverse@secureitsource.com
+Lesson 01,7,cunderwood@secureitsource.com
+Lesson 01,8,mwinslow@secureitsource.com
+Lesson 01,9,mwinslow@secureitsource.com
+Lesson 01,10,jllovet@secureitsource.com
+Lesson 01,11,jmocarski@secureitsource.com
+Lesson 01,12,marc.mcgee@mansfieldllc.com
+Lesson 01,13,MRios@focal-point.com
+Lesson 01,14,MRios@focal-point.com
+Lesson 01,15,MRios@focal-point.com
+Lesson 01,16,vcraven@focal-point.com
+Lesson 01,17,Tim.Neatrour@credenceia.com
+Lesson 01,18,Tim.Neatrour@credenceia.com
+Lesson 01,19,thrinaath.vajragowni@credenceia.com
+Lesson 01,20,Justin.Haines@optiv.com
+Lesson 01,43,skip
+Lesson 02,1,Faye.Jacobs@optiv.com
+Lesson 02,2,Eric.Mach@edgile.com
+Lesson 02,3,skip
+Lesson 02,4,kconverse@secureitsource.com
+Lesson 02,5,cunderwood@secureitsource.com
+Lesson 02,6,mwinslow@secureitsource.com
+Lesson 02,7,Benjamin.Oriold@edgile.com
+Lesson 02,8,jllovet@secureitsource.com
+Lesson 02,9,jmocarski@secureitsource.com
+Lesson 02,10,marc.mcgee@mansfieldllc.com
+Lesson 02,11,vcraven@focal-point.com
+Lesson 02,12,MRios@focal-point.com
+Lesson 02,13,Tim.Neatrour@credenceia.com
+Lesson 02,14,Tim.Neatrour@credenceia.com
+Lesson 02,15,thrinaath.vajragowni@credenceia.com
+Lesson 02,16,Justin.Haines@optiv.com
+Lesson 02,32,skip
+Lesson 02,44,PPrakash@herjavecgroup.com
+Lesson 12,1,Faye.Jacobs@optiv.com
+Lesson 12,2,Tim.Neatrour@credenceia.com 
+Lesson 12,3,Tim.Neatrour@credenceia.com 
+Lesson 12,4,thrinaath.vajragowni@credenceia.com
+Lesson 12,5,thrinaath.vajragowni@credenceia.com
+Lesson 12,6,MRios@focal-point.com
+Lesson 12,21,skip
+Lesson 03,1,skip
+Lesson 03,2,Faye.Jacobs@optiv.com
+Lesson 03,3,Tim.Neatrour@credenceia.com
+Lesson 03,4,Tim.Neatrour@credenceia.com
+Lesson 03,5,MRios@focal-point.com
+Lesson 03,6,MRios@focal-point.com
+Lesson 03,7,thrinaath.vajragowni@credenceia.com
+Lesson 03,8,thrinaath.vajragowni@credenceia.com
+Lesson 03,9,Justin.Haines@optiv.com
+Lesson 03,30,skip
+Lesson 03,31,skip
+Lesson 1011,1,Faye.Jacobs@optiv.com
+Lesson 1011,2,Tim.Neatrour@credenceia.com
+Lesson 1011,3,Tim.Neatrour@credenceia.com
+Lesson 1011,4,thrinaath.vajragowni@credenceia.com
+Lesson 1011,5,thrinaath.vajragowni@credenceia.com
+Lesson 1011,6,Justin.Haines@optiv.com
+Lesson 1011,7,MRios@focal-point.com
+Lesson 1011,8,MRios@focal-point.com
+Lesson 1011,25,skip
+Lesson 13,1,Faye.Jacobs@optiv.com
+Lesson 13,2,Tim.Neatrour@credenceia.com
+Lesson 13,3,Tim.Neatrour@credenceia.com
+Lesson 13,4,thrinaath.vajragowni@credenceia.com
+Lesson 13,5,MRios@focal-point.com
+Lesson 13,20,skip
+Lesson 13,23,skip
+Lesson 06,1,Faye.Jacobs@optiv.com
+Lesson 06,2,Tim.Neatrour@credenceia.com
+Lesson 06,3,Tim.Neatrour@credenceia.com
+Lesson 06,4,thrinaath.vajragowni@credenceia.com
+Lesson 06,5,thrinaath.vajragowni@credenceia.com
+Lesson 06,6,MRios@focal-point.com
+Lesson 06,7,MRios@focal-point.com
+Lesson 06,23,skip
+Lesson 06,25,skip
+Lesson 16,1,skip
+Lesson 16,2,skip
+Lesson 16,3,skip
+Lesson 16,4,thrinaath.vajragowni@credenceia.com
+Lesson 16,5,thrinaath.vajragowni@credenceia.com
+Lesson 16,6,Tim.Neatrour@credenceia.com
+Lesson 16,7,Tim.Neatrour@credenceia.com
+Lesson 16,8,Faye.Jacobs@optiv.com
+Lesson 16,28,skip
+Lesson 05,1,Faye.Jacobs@optiv.com
+Lesson 05,2,Tim.Neatrour@credenceia.com
+Lesson 05,3,Tim.Neatrour@credenceia.com
+Lesson 05,4,thrinaath.vajragowni@credenceia.com
+Lesson 05,5,MRios@focal-point.com
+Lesson 05,6,Justin.Haines@optiv.com
+Lesson 05,21,skip
+Lesson 05,23,skip
+Lesson 04,1,Faye.Jacobs@optiv.com
+Lesson 04,2,Tim.Neatrour@credenceia.com
+Lesson 04,3,thrinaath.vajragowni@credenceia.com
+Lesson 04,4,MRios@focal-point.com
+Lesson 04,5,MRios@focal-point.com
+Lesson 04,6,Justin.Haines@optiv.com
+Lesson 04,22,skip
+Lesson 04,25,skip
+Lesson 04,29,cory.koperski@optiv.com
+Lesson 04,38,PPrakash@herjavecgroup.com
+Lesson 14,1,Faye.Jacobs@optiv.com
+Lesson 14,2,thrinaath.vajragowni@credenceia.com
+Lesson 14,3,thrinaath.vajragowni@credenceia.com
+Lesson 14,4,Tim.Neatrour@credenceia.com
+Lesson 14,5,Tim.Neatrour@credenceia.com
+Lesson 14,6,MRios@focal-point.com
+Lesson 14,19,ppowers@novacoast.com
+Lesson 14,25,skip
+Lesson 09,1,Faye.Jacobs@optiv.com
+Lesson 09,2,Tim.Neatrour@credenceia.com
+Lesson 09,3,Tim.Neatrour@credenceia.com
+Lesson 09,4,thrinaath.vajragowni@credenceia.com
+Lesson 09,5,thrinaath.vajragowni@credenceia.com
+Lesson 09,6,Justin.Haines@optiv.com
+Lesson 09,7,MRios@focal-point.com
+Lesson 09,23,skip
+Lesson 09,25,skip
+Lesson 09,38,skip
+Lesson 0708,1,Faye.Jacobs@optiv.com
+Lesson 0708,2,Tim.Neatrour@credenceia.com
+Lesson 0708,3,Tim.Neatrour@credenceia.com
+Lesson 0708,4,Tim.Neatrour@credenceia.com
+Lesson 0708,5,Tim.Neatrour@credenceia.com
+Lesson 0708,6,thrinaath.vajragowni@credenceia.com
+Lesson 0708,7,thrinaath.vajragowni@credenceia.com
+Lesson 0708,8,Justin.Haines@optiv.com
+Lesson 0708,9,MRios@focal-point.com
+Lesson 0708,10,MRios@focal-point.com
+Lesson 0708,26,skip
+Lesson 0708,38,skip

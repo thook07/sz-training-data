@@ -1,0 +1,173 @@
+{
+    "seczetta_environment": {
+        "name":"seczetta",
+        "url": "https://seczetta.nonemployee.com",
+        "api_url": "https://seczetta.nonemployee.com/api",
+        "api_key": "54248d66a9c742a7958045fcbd816266",
+        "partner_profile_type_id": "b3858d75-e3f3-11ea-9fb2-1292d4bf5de5"
+    },
+    "training_data_file_name": "training_data.csv",
+    "fixes_file_name": "fixes.csv",
+    "quiz_data": {
+        "101": {
+            "file_name": "Check Your Knowledge_ SecZetta 101",
+            "display_name": "101",
+            "email_col": 14,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 36,
+            "passing_percent": 0.7
+         },
+         "201": {
+            "file_name": "Check Your Knowledge_ SecZetta 201",
+            "display_name": "201",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 22,
+            "passing_percent": 0.7
+         },
+         "Lesson 00": {
+            "file_name": "Lesson 00_ Intro to the Dashboard & Administration_Knowledge Check",
+            "display_name": "Lesson 00",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 8,
+            "passing_percent": 0.8
+         },
+         "Lesson 01": {
+            "file_name": "Lesson 01_ User Management System_Knowledge Check",
+            "display_name": "Lesson 01",
+            "email_col": 14,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 8,
+            "passing_percent": 0.8
+         },
+         "Lesson 02": {
+            "file_name": "Lesson 02_ Attributes - Part 1_Knowledge Check",
+            "display_name": "Lesson 02",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 16,
+            "passing_percent": 0.8
+         },
+         "Lesson 03": {
+            "file_name": "Lesson 03_ Identity Store- Profile Types _Knowledge Check",
+            "display_name": "Lesson 03",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 10,
+            "passing_percent": 0.7
+         },
+         "Lesson 04": {
+            "file_name": "Lesson 04_ Forms _Knowledge Check",
+            "display_name": "Lesson 04",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 14,
+            "passing_percent": 0.7
+         },
+         "Lesson 05": {
+            "file_name": "Lesson 05_ Workflow Pages_Knowledge Check",
+            "display_name": "Lesson 05",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 10,
+            "passing_percent": 0.7
+         },
+         "Lesson 06": {
+            "file_name": "Lesson 06_ Notifications_Knowledge Check",
+            "display_name": "Lesson 06",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 8,
+            "passing_percent": 0.7
+         },
+         "Lesson 0708": {
+            "file_name": "Lessons 07 and 08_ Workflows_Knowledge Check",
+            "display_name": "Lesson 07 & 08",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 12,
+            "passing_percent": 0.7
+         },
+         "Lesson 09": {
+            "file_name": "Lesson 9A and 9B_ Workflows Continued_Knowledge Check",
+            "display_name": "Lesson 09A & 09B",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 20,
+            "passing_percent": 0.7
+         },
+         "Lesson 1011": {
+            "file_name": "Lessons 10 and 11_ Workflows Continued_Knowledge Check",
+            "display_name": "Lesson 10 & 11",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 20,
+            "passing_percent": 0.7
+         },
+         "Lesson 12": {
+            "file_name": "Lesson 12_ Identity Store - Profile Pages_Knowledge Check",
+            "display_name": "Lesson 12",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 14,
+            "passing_percent": 0.7
+         },
+         "Lesson 13": {
+            "file_name": "Lesson 13_ Profile Attributes_ Part 2_Knowledge Check",
+            "display_name": "Lesson 13",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 8,
+            "passing_percent": 0.7
+         },
+         "Lesson 14": {
+            "file_name": "Lesson 14_ Identity Risk_Knowledge Check",
+            "display_name": "Lesson 14",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 16,
+            "passing_percent": 0.7
+         },
+         "Lesson 16": {
+            "file_name": "Lesson 16A and 16B_ An Introduction to NEAccess_Knowledge Check",
+            "display_name": "Lesson 16A & 16B",
+            "email_col": 13,
+            "start_time_col": 1,
+            "complete_time_col": 2,
+            "total_points_col": 5,
+            "total_points_possible": 20,
+            "passing_percent": 0.7
+         }
+    }
+}

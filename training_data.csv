@@ -1,0 +1,742 @@
+attempt_id,quiz_name,name,email,org,start_date,complete_date,total_score
+101-5,101,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,03/23/2020 11:40:00,03/23/2020 11:45:14,24.0
+101-7,101,Justin Haines,Justin.Haines@optiv.com,Optiv,03/30/2020 12:18:40,03/30/2020 12:23:52,28.0
+101-8,101,Ben Oriold,Benjamin.Oriold@edgile.com,Edgile,04/01/2020 13:39:56,04/01/2020 13:50:09,28.0
+101-10,101,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/04/2020 19:12:08,04/04/2020 19:16:12,32.0
+101-12,101,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 08:58:53,04/06/2020 09:00:50,36.0
+101-13,101,Vincent Craven,vcraven@focal-point.com,Focal Point,04/06/2020 13:59:54,04/06/2020 14:10:35,30.0
+101-14,101,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,04/06/2020 12:27:54,04/06/2020 14:12:03,28.0
+101-15,101,Ben Oriold,Benjamin.Oriold@edgile.com,Edgile,04/07/2020 10:10:23,04/07/2020 10:13:45,28.0
+101-16,101,Melanie Rios,MRios@focal-point.com,Focal Point,04/08/2020 11:58:22,04/08/2020 13:47:03,32.0
+101-17,101,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/09/2020 09:38:25,04/09/2020 09:43:32,30.0
+101-18,101,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/16/2020 18:06:30,04/16/2020 18:40:24,24.0
+101-19,101,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/16/2020 18:45:33,04/16/2020 18:48:31,32.0
+101-20,101,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/16/2020 20:06:05,04/16/2020 20:34:27,26.0
+101-21,101,James Carroll,james.carroll@idmworks.com,IDMWorks,04/17/2020 18:00:35,04/17/2020 18:04:12,28.0
+101-22,101,John LeFebvre,john.lefebvre@credenceia.com,CredenceIA,04/18/2020 06:17:29,04/18/2020 06:45:31,30.0
+101-23,101,John LeFebvre,john.lefebvre@credenceia.com,CredenceIA,04/18/2020 06:46:23,04/18/2020 06:49:05,36.0
+101-24,101,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/30/2020 07:00:20,04/30/2020 07:21:33,22.0
+101-25,101,Victor Balling,vballing@secureitsource.com,SecureIT Source,04/30/2020 10:33:35,04/30/2020 10:41:23,22.0
+101-26,101,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:54:43,05/01/2020 12:04:40,32.0
+101-27,101,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 12:05:54,05/01/2020 12:07:23,36.0
+101-28,101,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:05:41,05/01/2020 12:12:47,34.0
+101-29,101,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:13:52,05/01/2020 12:18:10,36.0
+101-30,101,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/04/2020 14:45:15,05/04/2020 15:21:52,22.0
+101-31,101,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/04/2020 15:26:21,05/04/2020 15:29:36,36.0
+101-32,101,James Carroll,james.carroll@idmworks.com,IDMWorks,05/10/2020 15:59:40,05/10/2020 16:27:55,28.0
+101-33,101,James Carroll,james.carroll@idmworks.com,IDMWorks,05/10/2020 16:28:36,05/10/2020 16:30:36,34.0
+101-34,101,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/15/2020 06:55:12,05/15/2020 07:04:47,28.0
+101-35,101,Arlene Mordeno,Arlene.Mordeno@edgile.com,Edgile,05/21/2020 00:34:56,05/21/2020 00:46:41,30.0
+101-36,101,Arlene Mordeno,Arlene.Mordeno@edgile.com,Edgile,05/21/2020 00:47:40,05/21/2020 00:52:06,34.0
+101-37,101,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,05/29/2020 09:31:14,05/29/2020 09:39:05,24.0
+101-38,101,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:26:52,05/29/2020 09:39:15,22.0
+101-39,101,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:41:03,05/29/2020 09:44:12,34.0
+101-40,101,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,05/29/2020 09:43:56,05/29/2020 09:46:23,36.0
+101-41,101,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,05/29/2020 13:59:49,05/29/2020 14:10:26,24.0
+101-42,101,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,05/29/2020 14:23:39,05/29/2020 14:26:16,36.0
+101-43,101,Phillip Powers,ppowers@novacoast.com,Novacoast,06/01/2020 09:29:02,06/01/2020 10:11:26,30.0
+101-44,101,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/01/2020 16:49:07,06/01/2020 16:51:45,12.0
+101-45,101,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/01/2020 16:53:51,06/01/2020 16:58:26,36.0
+101-46,101,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/03/2020 11:46:24,06/03/2020 11:50:20,16.0
+101-48,101,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,07/24/2020 14:20:24,07/24/2020 14:34:12,26.0
+101-49,101,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 12:13:22,08/05/2020 12:29:57,34.0
+101-50,101,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 12:56:39,08/05/2020 12:58:24,36.0
+101-51,101,Greg Abreu,gabreu@securepoint.co.za,SailPoint,08/13/2020 05:15:00,08/13/2020 05:34:18,32.0
+101-52,101,Cory Koperski,cory.koperski@optiv.com,Optiv,08/19/2020 10:41:56,08/19/2020 11:05:57,28.0
+101-53,101,Cory Koperski,cory.koperski@optiv.com,Optiv,08/21/2020 07:51:58,08/21/2020 08:06:04,34.0
+101-54,101,Eric Mach,Eric.Mach@edgile.com,Edgile,08/21/2020 18:31:12,08/21/2020 18:47:35,26.0
+101-55,101,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/24/2020 12:19:38,08/24/2020 12:47:33,32.0
+101-57,101,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/03/2020 04:08:26,09/03/2020 04:27:34,24.0
+101-58,101,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 01:44:10,09/04/2020 02:08:23,24.0
+101-59,101,Greg Abreu,gabreu@securepoint.co.za,SailPoint,09/04/2020 02:27:27,09/04/2020 02:44:51,30.0
+101-60,101,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/04/2020 04:56:25,09/04/2020 06:59:44,24.0
+101-61,101,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/04/2020 07:02:09,09/04/2020 07:04:35,26.0
+101-62,101,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/04/2020 07:05:55,09/04/2020 07:09:51,34.0
+101-63,101,Allison Ford,allison.ford@edgile.com,Edgile,09/11/2020 13:07:50,09/11/2020 13:19:31,30.0
+101-64,101,Anders Ihs,anders.ihs@arcticgroup.se,Arctic Group,09/14/2020 03:25:06,09/14/2020 03:36:23,30.0
+101-65,101,Robert Simms,rsimms@securepoint.co.za,SailPoint,09/22/2020 02:09:50,09/22/2020 02:37:48,28.0
+101-66,101,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 01:46:26,09/29/2020 01:50:01,30.0
+101-67,101,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 01:53:45,09/29/2020 01:56:05,36.0
+101-68,101,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/21/2020 11:23:46,10/21/2020 13:20:29,26.0
+101-69,101,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/21/2020 13:21:30,10/21/2020 13:26:26,34.0
+101-70,101,Ravi Makam,ravi.makam@optiv.com,Optiv,10/22/2020 20:35:12,10/22/2020 21:02:44,26.0
+101-71,101,Archana Jayasankar,AJayasankar@siaraatechnologies.com,SIARAA Technologies,10/27/2020 10:22:45,10/27/2020 10:47:51,28.0
+101-72,101,Archana Jayasankar,AJayasankar@siaraatechnologies.com,SIARAA Technologies,10/27/2020 10:50:17,10/27/2020 10:52:36,36.0
+101-73,101,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 13:00:13,10/28/2020 13:14:43,30.0
+101-74,101,Claudia Ramirez,claudia.ramirez@levelupconsult.com,LevelUp,11/10/2020 16:05:19,11/10/2020 16:17:27,28.0
+201-2,201,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,03/23/2020 11:16:26,03/23/2020 11:20:49,12.0
+201-3,201,Paul Kohler,paul.kohler@s3-llc.com,S3,04/01/2020 11:09:51,04/01/2020 11:14:01,18.0
+201-4,201,Paul Kohler,paul.kohler@s3-llc.com,S3,04/01/2020 11:15:34,04/01/2020 11:16:51,16.0
+201-5,201,Eric Mach,Eric.Mach@edgile.com,Edgile,04/01/2020 14:30:44,04/01/2020 14:47:44,12.0
+201-6,201,Ben Oriold,Benjamin.Oriold@edgile.com,Edgile,04/02/2020 13:08:49,04/02/2020 13:14:07,16.0
+201-7,201,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/04/2020 18:27:39,04/04/2020 18:35:07,16.0
+201-8,201,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 08:48:14,04/06/2020 08:51:15,12.0
+201-9,201,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 08:52:43,04/06/2020 08:54:36,18.0
+201-10,201,Vincent Craven,vcraven@focal-point.com,Focal Point,04/06/2020 13:36:58,04/06/2020 13:43:35,14.0
+201-11,201,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,04/06/2020 14:27:48,04/06/2020 14:33:38,18.0
+201-12,201,Melanie Rios,MRios@focal-point.com,Focal Point,04/13/2020 11:01:28,04/13/2020 12:24:14,18.0
+201-13,201,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 06:25:54,04/17/2020 06:40:39,10.0
+201-14,201,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 06:42:26,04/17/2020 06:44:15,20.0
+201-15,201,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 10:28:15,04/17/2020 10:40:18,18.0
+201-16,201,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 10:43:16,04/17/2020 10:45:03,16.0
+201-17,201,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 10:46:33,04/17/2020 10:48:42,20.0
+201-18,201,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/30/2020 06:22:52,04/30/2020 07:22:20,16.0
+201-19,201,Victor Balling,vballing@secureitsource.com,SecureIT Source,04/30/2020 09:47:51,04/30/2020 09:58:05,16.0
+201-20,201,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:08:04,05/01/2020 11:17:08,18.0
+201-21,201,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:17:34,05/01/2020 11:18:55,22.0
+201-22,201,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 11:43:44,05/01/2020 11:49:37,18.0
+201-23,201,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 11:52:52,05/01/2020 11:56:08,22.0
+201-24,201,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/04/2020 14:53:22,05/04/2020 15:04:28,12.0
+201-25,201,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/04/2020 15:07:04,05/04/2020 15:09:32,22.0
+201-26,201,James Carroll,james.carroll@idmworks.com,IDMWorks,05/10/2020 15:31:38,05/10/2020 17:00:04,18.0
+201-27,201,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/15/2020 08:04:10,05/15/2020 08:10:33,18.0
+201-28,201,Arlene Mordeno,Arlene.Mordeno@edgile.com,Edgile,05/21/2020 00:11:32,05/21/2020 00:20:12,18.0
+201-29,201,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 08:57:02,05/29/2020 09:03:35,12.0
+201-30,201,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:05:40,05/29/2020 09:07:01,22.0
+201-31,201,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,05/29/2020 11:34:06,05/29/2020 11:39:41,18.0
+201-32,201,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,05/29/2020 14:50:36,05/29/2020 14:56:07,16.0
+201-33,201,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,05/29/2020 15:00:52,05/29/2020 15:02:39,22.0
+201-34,201,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/01/2020 15:59:13,06/01/2020 16:05:11,6.0
+201-35,201,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/01/2020 16:05:49,06/01/2020 16:07:48,22.0
+201-36,201,Phillip Powers,ppowers@novacoast.com,Novacoast,06/02/2020 08:18:16,06/02/2020 08:26:06,18.0
+201-37,201,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/03/2020 10:42:49,06/03/2020 10:45:32,14.0
+201-38,201,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,07/31/2020 13:26:27,07/31/2020 13:52:58,12.0
+201-39,201,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 11:33:42,08/05/2020 11:46:06,18.0
+201-40,201,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 11:46:35,08/05/2020 11:51:50,20.0
+201-41,201,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 11:54:42,08/05/2020 11:55:28,22.0
+201-42,201,Cory Koperski,cory.koperski@optiv.com,Optiv,08/21/2020 13:23:29,08/21/2020 13:31:36,16.0
+201-43,201,Cory Koperski,cory.koperski@optiv.com,Optiv,08/21/2020 13:32:28,08/21/2020 13:38:28,22.0
+201-44,201,Eric Mach,Eric.Mach@edgile.com,Edgile,08/21/2020 19:08:19,08/21/2020 19:18:11,16.0
+201-45,201,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/24/2020 15:05:54,08/24/2020 15:38:09,16.0
+201-46,201,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 01:40:35,09/04/2020 01:47:36,12.0
+201-47,201,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/04/2020 07:00:37,09/04/2020 13:02:12,16.0
+201-48,201,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/04/2020 13:02:47,09/04/2020 13:04:13,20.0
+201-49,201,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/06/2020 07:39:10,09/06/2020 07:45:00,16.0
+201-50,201,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/06/2020 07:49:26,09/06/2020 07:50:20,22.0
+201-51,201,Allison Ford,allison.ford@edgile.com,Edgile,09/11/2020 14:46:24,09/11/2020 14:55:55,18.0
+201-52,201,Anders Ihs,anders.ihs@arcticgroup.se,Arctic Group,09/14/2020 05:37:38,09/14/2020 05:43:44,16.0
+201-53,201,Robert Simms,rsimms@securepoint.co.za,SailPoint,09/22/2020 03:06:23,09/22/2020 03:27:36,18.0
+201-54,201,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 05:51:55,09/29/2020 05:54:15,16.0
+201-55,201,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 05:55:13,09/29/2020 05:56:24,22.0
+201-56,201,Taylor Hook,taylor.hook@optiv.com,Optiv,10/19/2020 10:43:45,10/19/2020 10:46:41,2.0
+201-57,201,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/22/2020 14:36:17,10/22/2020 14:47:25,14.0
+201-58,201,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/22/2020 14:47:57,10/22/2020 14:50:27,22.0
+201-59,201,Ravi Makam,ravi.makam@optiv.com,Optiv,10/23/2020 08:30:35,10/23/2020 08:37:11,18.0
+201-60,201,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 12:16:36,10/28/2020 12:29:11,18.0
+201-61,201,Claudia Ramirez,claudia.ramirez@levelupconsult.com,LevelUp,11/11/2020 08:00:05,11/11/2020 08:20:19,16.0
+Lesson 00-1,Lesson 00,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,03/23/2020 11:58:45,03/23/2020 12:00:06,6.0
+Lesson 00-2,Lesson 00,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/01/2020 06:49:54,04/01/2020 06:54:26,8.0
+Lesson 00-3,Lesson 00,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/01/2020 10:55:59,04/01/2020 10:57:19,2.0
+Lesson 00-4,Lesson 00,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/01/2020 10:58:06,04/01/2020 10:58:41,8.0
+Lesson 00-5,Lesson 00,Eric Mach,Eric.Mach@edgile.com,Edgile,04/01/2020 14:58:18,04/01/2020 15:08:16,8.0
+Lesson 00-6,Lesson 00,Ben Oriold,Benjamin.Oriold@edgile.com,Edgile,04/02/2020 13:25:50,04/02/2020 13:29:51,4.0
+Lesson 00-7,Lesson 00,Ben Oriold,Benjamin.Oriold@edgile.com,Edgile,04/02/2020 13:30:53,04/02/2020 13:33:14,8.0
+Lesson 00-9,Lesson 00,Chris Underwood,cunderwood@secureitsource.com,SecureIT Source,04/06/2020 05:36:40,04/06/2020 05:40:11,6.0
+Lesson 00-10,Lesson 00,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 09:00:34,04/06/2020 09:01:43,6.0
+Lesson 00-11,Lesson 00,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,04/07/2020 12:38:22,04/07/2020 12:43:14,8.0
+Lesson 00-12,Lesson 00,Deni Letts,deni.letts@idmworks.com,IDMWorks,04/08/2020 12:05:56,04/08/2020 12:10:28,6.0
+Lesson 00-13,Lesson 00,Deni Letts,deni.letts@idmworks.com,IDMWorks,04/08/2020 12:11:44,04/08/2020 12:12:24,8.0
+Lesson 00-14,Lesson 00,James Mocarski,jmocarski@secureitsource.com,SecureIT Source,04/09/2020 07:10:32,04/09/2020 07:16:26,4.0
+Lesson 00-15,Lesson 00,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/09/2020 10:42:10,04/09/2020 10:46:25,8.0
+Lesson 00-16,Lesson 00,Melanie Rios,MRios@focal-point.com,Focal Point,04/13/2020 12:40:52,04/13/2020 15:45:28,6.0
+Lesson 00-17,Lesson 00,Melanie Rios,MRios@focal-point.com,Focal Point,04/13/2020 15:46:00,04/13/2020 15:47:53,8.0
+Lesson 00-18,Lesson 00,Vincent Craven,vcraven@focal-point.com,Focal Point,04/14/2020 06:32:11,04/14/2020 06:36:26,8.0
+Lesson 00-19,Lesson 00,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 06:58:53,04/17/2020 07:01:39,6.0
+Lesson 00-20,Lesson 00,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 07:07:11,04/17/2020 07:07:44,6.0
+Lesson 00-21,Lesson 00,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 11:20:09,04/17/2020 11:22:54,6.0
+Lesson 00-22,Lesson 00,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 08:58:15,04/20/2020 09:01:45,6.0
+Lesson 00-23,Lesson 00,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 08:59:50,05/01/2020 09:09:45,6.0
+Lesson 00-24,Lesson 00,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 10:41:05,05/01/2020 11:25:20,6.0
+Lesson 00-25,Lesson 00,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 11:27:30,05/01/2020 11:28:11,8.0
+Lesson 00-26,Lesson 00,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:22:47,05/01/2020 11:30:20,8.0
+Lesson 00-27,Lesson 00,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 11:58:35,05/01/2020 12:09:22,6.0
+Lesson 00-28,Lesson 00,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:09:39,05/01/2020 12:10:03,8.0
+Lesson 00-29,Lesson 00,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/04/2020 15:18:43,05/04/2020 15:23:46,2.0
+Lesson 00-30,Lesson 00,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/04/2020 15:24:46,05/04/2020 15:25:54,8.0
+Lesson 00-31,Lesson 00,James Carroll,james.carroll@idmworks.com,IDMWorks,05/10/2020 17:29:05,05/10/2020 17:34:28,8.0
+Lesson 00-32,Lesson 00,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/15/2020 08:18:22,05/15/2020 08:25:57,6.0
+Lesson 00-34,Lesson 00,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:20:01,05/29/2020 09:21:12,4.0
+Lesson 00-35,Lesson 00,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:21:44,05/29/2020 09:22:32,8.0
+Lesson 00-36,Lesson 00,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,05/29/2020 12:05:27,05/29/2020 12:10:32,6.0
+Lesson 00-37,Lesson 00,Phillip Powers,ppowers@novacoast.com,Novacoast,06/02/2020 12:29:38,06/02/2020 12:39:15,6.0
+Lesson 00-38,Lesson 00,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 09:09:28,06/03/2020 09:12:03,6.0
+Lesson 00-39,Lesson 00,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/03/2020 17:08:29,06/03/2020 17:12:12,2.0
+Lesson 00-40,Lesson 00,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/03/2020 17:12:29,06/03/2020 17:14:31,8.0
+Lesson 00-41,Lesson 00,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/24/2020 08:05:39,06/24/2020 08:08:32,2.0
+Lesson 00-42,Lesson 00,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/24/2020 08:08:50,06/24/2020 08:10:22,4.0
+Lesson 00-43,Lesson 00,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/24/2020 08:10:36,06/24/2020 08:11:01,8.0
+Lesson 00-44,Lesson 00,James Carroll,james.carroll@idmworks.com,IDMWorks,06/26/2020 19:25:06,06/26/2020 19:40:54,8.0
+Lesson 00-45,Lesson 00,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 15:32:59,07/09/2020 15:43:10,2.0
+Lesson 00-46,Lesson 00,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 15:43:23,07/09/2020 15:44:05,8.0
+Lesson 00-48,Lesson 00,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,07/30/2020 11:15:19,07/30/2020 11:16:14,6.0
+Lesson 00-49,Lesson 00,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,07/31/2020 14:00:16,07/31/2020 14:03:02,6.0
+Lesson 00-50,Lesson 00,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 11:59:27,08/05/2020 12:04:44,6.0
+Lesson 00-51,Lesson 00,Aaron Mansfield,aaron@mansfieldllc.com,Mansfield Group,08/05/2020 12:22:31,08/05/2020 12:23:01,8.0
+Lesson 00-52,Lesson 00,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/12/2020 21:47:11,08/12/2020 21:51:20,4.0
+Lesson 00-53,Lesson 00,Eric Mach,Eric.Mach@edgile.com,Edgile,08/21/2020 19:25:53,08/21/2020 19:52:18,6.0
+Lesson 00-54,Lesson 00,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 12:52:21,08/23/2020 12:57:21,8.0
+Lesson 00-55,Lesson 00,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/25/2020 15:43:04,08/25/2020 15:45:30,8.0
+Lesson 00-56,Lesson 00,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 02:00:07,09/04/2020 02:11:58,6.0
+Lesson 00-57,Lesson 00,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/06/2020 07:58:49,09/06/2020 08:03:33,8.0
+Lesson 00-58,Lesson 00,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 00:21:59,09/07/2020 00:27:58,6.0
+Lesson 00-59,Lesson 00,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 00:28:20,09/07/2020 00:28:52,8.0
+Lesson 00-60,Lesson 00,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 08:10:01,09/14/2020 08:12:35,6.0
+Lesson 00-61,Lesson 00,Robert Simms,rsimms@securepoint.co.za,SailPoint,09/22/2020 04:57:51,09/22/2020 05:07:33,8.0
+Lesson 00-62,Lesson 00,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 06:11:46,09/29/2020 06:12:44,8.0
+Lesson 00-63,Lesson 00,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/19/2020 01:58:37,10/19/2020 03:08:31,2.0
+Lesson 00-64,Lesson 00,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/19/2020 03:09:02,10/19/2020 03:10:14,8.0
+Lesson 00-65,Lesson 00,Ravi Makam,ravi.makam@optiv.com,Optiv,10/23/2020 08:39:27,10/23/2020 08:49:40,4.0
+Lesson 00-66,Lesson 00,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/26/2020 08:38:19,10/26/2020 08:54:56,8.0
+Lesson 00-67,Lesson 00,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 12:39:07,10/28/2020 12:43:41,8.0
+Lesson 00-68,Lesson 00,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 07:37:20,11/11/2020 07:41:14,6.0
+Lesson 01-1,Lesson 01,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,03/23/2020 12:15:24,03/23/2020 12:17:21,2.0
+Lesson 01-2,Lesson 01,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/01/2020 07:19:44,04/01/2020 07:24:18,4.0
+Lesson 01-3,Lesson 01,Eric Mach,Eric.Mach@edgile.com,Edgile,04/01/2020 15:24:21,04/01/2020 16:32:39,6.0
+Lesson 01-5,Lesson 01,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/04/2020 18:55:44,04/04/2020 18:58:59,8.0
+Lesson 01-6,Lesson 01,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/04/2020 18:59:29,04/04/2020 19:01:05,6.0
+Lesson 01-7,Lesson 01,Chris Underwood,cunderwood@secureitsource.com,SecureIT Source,04/06/2020 05:48:23,04/06/2020 05:52:35,4.0
+Lesson 01-8,Lesson 01,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 10:05:43,04/06/2020 10:12:55,4.0
+Lesson 01-9,Lesson 01,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 10:36:28,04/06/2020 10:37:28,6.0
+Lesson 01-10,Lesson 01,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,04/07/2020 12:43:41,04/07/2020 12:47:38,4.0
+Lesson 01-11,Lesson 01,James Mocarski,jmocarski@secureitsource.com,SecureIT Source,04/09/2020 07:17:04,04/09/2020 07:23:40,6.0
+Lesson 01-12,Lesson 01,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/09/2020 11:08:37,04/09/2020 11:14:57,6.0
+Lesson 01-13,Lesson 01,Melanie Rios,MRios@focal-point.com,Focal Point,04/13/2020 15:50:18,04/13/2020 16:44:58,4.0
+Lesson 01-14,Lesson 01,Melanie Rios,MRios@focal-point.com,Focal Point,04/13/2020 16:45:56,04/13/2020 16:46:41,6.0
+Lesson 01-15,Lesson 01,Melanie Rios,MRios@focal-point.com,Focal Point,04/13/2020 16:47:37,04/13/2020 16:48:14,8.0
+Lesson 01-16,Lesson 01,Vincent Craven,vcraven@focal-point.com,Focal Point,04/14/2020 06:57:47,04/14/2020 07:03:20,6.0
+Lesson 01-17,Lesson 01,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 07:40:00,04/17/2020 07:41:02,4.0
+Lesson 01-18,Lesson 01,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 07:41:23,04/17/2020 07:42:17,4.0
+Lesson 01-19,Lesson 01,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 11:32:38,04/17/2020 11:35:38,6.0
+Lesson 01-20,Lesson 01,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 09:04:39,04/20/2020 09:11:40,6.0
+Lesson 01-21,Lesson 01,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 09:10:17,05/01/2020 09:45:10,4.0
+Lesson 01-22,Lesson 01,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:30:40,05/01/2020 11:33:21,8.0
+Lesson 01-23,Lesson 01,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 11:28:30,05/01/2020 11:41:02,6.0
+Lesson 01-24,Lesson 01,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 11:42:27,05/01/2020 11:43:21,8.0
+Lesson 01-25,Lesson 01,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:10:30,05/01/2020 12:19:29,8.0
+Lesson 01-26,Lesson 01,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 10:56:57,05/05/2020 11:07:27,4.0
+Lesson 01-27,Lesson 01,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 11:08:43,05/05/2020 11:09:45,8.0
+Lesson 01-28,Lesson 01,James Carroll,james.carroll@idmworks.com,IDMWorks,05/10/2020 17:34:47,05/10/2020 17:44:22,6.0
+Lesson 01-29,Lesson 01,James Carroll,james.carroll@idmworks.com,IDMWorks,05/10/2020 17:44:40,05/10/2020 17:45:46,8.0
+Lesson 01-30,Lesson 01,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/15/2020 08:29:17,05/15/2020 08:35:52,6.0
+Lesson 01-31,Lesson 01,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:31:28,05/29/2020 09:33:20,4.0
+Lesson 01-32,Lesson 01,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:33:53,05/29/2020 09:34:42,6.0
+Lesson 01-33,Lesson 01,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 09:35:26,05/29/2020 09:35:57,8.0
+Lesson 01-34,Lesson 01,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,05/29/2020 12:22:37,05/29/2020 12:29:11,6.0
+Lesson 01-35,Lesson 01,Phillip Powers,ppowers@novacoast.com,Novacoast,06/03/2020 07:25:12,06/03/2020 07:31:17,6.0
+Lesson 01-36,Lesson 01,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 09:22:44,06/03/2020 09:24:55,6.0
+Lesson 01-37,Lesson 01,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/03/2020 17:15:07,06/03/2020 19:30:08,2.0
+Lesson 01-38,Lesson 01,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/03/2020 19:30:26,06/03/2020 19:31:08,8.0
+Lesson 01-39,Lesson 01,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/24/2020 08:23:57,06/24/2020 08:32:47,2.0
+Lesson 01-40,Lesson 01,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/24/2020 08:32:49,06/24/2020 08:33:53,6.0
+Lesson 01-41,Lesson 01,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 15:44:39,07/09/2020 16:01:40,2.0
+Lesson 01-42,Lesson 01,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 16:01:50,07/09/2020 16:02:28,8.0
+Lesson 01-44,Lesson 01,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,07/30/2020 11:47:53,07/30/2020 11:48:25,4.0
+Lesson 01-45,Lesson 01,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,07/31/2020 14:03:36,07/31/2020 14:12:49,4.0
+Lesson 01-46,Lesson 01,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/12/2020 22:04:11,08/12/2020 22:27:41,6.0
+Lesson 01-47,Lesson 01,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 13:28:20,08/23/2020 13:33:24,6.0
+Lesson 01-48,Lesson 01,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/26/2020 10:32:29,08/26/2020 10:34:39,6.0
+Lesson 01-49,Lesson 01,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 03:21:43,09/04/2020 03:24:17,6.0
+Lesson 01-50,Lesson 01,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/06/2020 08:13:06,09/06/2020 08:16:00,6.0
+Lesson 01-51,Lesson 01,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 00:32:10,09/07/2020 01:05:25,6.0
+Lesson 01-52,Lesson 01,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 01:05:38,09/07/2020 01:06:13,8.0
+Lesson 01-53,Lesson 01,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 08:23:19,09/14/2020 08:25:56,6.0
+Lesson 01-54,Lesson 01,Robert Simms,rsimms@securepoint.co.za,SailPoint,09/22/2020 05:07:55,09/22/2020 05:17:33,4.0
+Lesson 01-55,Lesson 01,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 06:35:03,09/29/2020 06:37:36,6.0
+Lesson 01-56,Lesson 01,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 06:39:18,09/29/2020 06:40:24,8.0
+Lesson 01-57,Lesson 01,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/19/2020 03:10:53,10/20/2020 00:28:20,4.0
+Lesson 01-58,Lesson 01,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/20/2020 00:29:55,10/20/2020 00:30:55,8.0
+Lesson 01-59,Lesson 01,Ravi Makam,ravi.makam@optiv.com,Optiv,10/23/2020 08:50:57,10/23/2020 09:11:13,4.0
+Lesson 01-60,Lesson 01,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/26/2020 09:24:02,10/26/2020 11:17:00,4.0
+Lesson 01-61,Lesson 01,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/26/2020 11:17:24,10/26/2020 11:18:23,8.0
+Lesson 01-62,Lesson 01,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 12:44:04,10/28/2020 12:52:38,6.0
+Lesson 01-63,Lesson 01,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 08:44:14,11/11/2020 08:47:30,6.0
+Lesson 02-1,Lesson 02,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/01/2020 14:36:04,04/01/2020 14:41:36,16.0
+Lesson 02-2,Lesson 02,Eric Mach,Eric.Mach@edgile.com,Edgile,04/01/2020 16:34:30,04/01/2020 16:53:59,16.0
+Lesson 02-4,Lesson 02,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,04/04/2020 19:02:42,04/04/2020 19:10:31,16.0
+Lesson 02-5,Lesson 02,Chris Underwood,cunderwood@secureitsource.com,SecureIT Source,04/06/2020 06:10:10,04/06/2020 06:14:20,14.0
+Lesson 02-6,Lesson 02,Mike Winslow,mwinslow@secureitsource.com,SecureIT Source,04/06/2020 11:08:56,04/06/2020 11:15:56,16.0
+Lesson 02-7,Lesson 02,Ben Oriold,Benjamin.Oriold@edgile.com,Edgile,04/07/2020 09:24:39,04/07/2020 09:27:57,16.0
+Lesson 02-8,Lesson 02,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,04/07/2020 12:48:01,04/07/2020 12:56:04,14.0
+Lesson 02-9,Lesson 02,James Mocarski,jmocarski@secureitsource.com,SecureIT Source,04/09/2020 09:17:44,04/09/2020 09:27:55,16.0
+Lesson 02-10,Lesson 02,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/09/2020 11:16:54,04/09/2020 11:26:42,14.0
+Lesson 02-11,Lesson 02,Vincent Craven,vcraven@focal-point.com,Focal Point,04/14/2020 09:01:03,04/14/2020 09:02:50,16.0
+Lesson 02-12,Lesson 02,Melanie Rios,MRios@focal-point.com,Focal Point,04/14/2020 08:44:54,04/14/2020 19:14:53,16.0
+Lesson 02-13,Lesson 02,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 08:04:56,04/17/2020 08:06:46,10.0
+Lesson 02-14,Lesson 02,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 08:07:26,04/17/2020 08:08:10,16.0
+Lesson 02-15,Lesson 02,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 11:52:55,04/17/2020 11:55:57,16.0
+Lesson 02-16,Lesson 02,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 09:14:52,04/20/2020 09:26:05,16.0
+Lesson 02-17,Lesson 02,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 10:02:39,05/01/2020 10:54:15,16.0
+Lesson 02-18,Lesson 02,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:33:38,05/01/2020 11:34:51,14.0
+Lesson 02-19,Lesson 02,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:35:02,05/01/2020 11:35:45,16.0
+Lesson 02-20,Lesson 02,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 11:43:37,05/01/2020 11:54:32,16.0
+Lesson 02-21,Lesson 02,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:19:49,05/01/2020 12:21:33,16.0
+Lesson 02-22,Lesson 02,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 11:30:06,05/05/2020 11:32:53,12.0
+Lesson 02-23,Lesson 02,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/18/2020 12:28:49,05/18/2020 12:50:27,16.0
+Lesson 02-24,Lesson 02,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/01/2020 09:43:58,06/01/2020 09:49:16,16.0
+Lesson 02-25,Lesson 02,Phillip Powers,ppowers@novacoast.com,Novacoast,06/03/2020 09:26:35,06/03/2020 09:36:02,16.0
+Lesson 02-26,Lesson 02,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 09:38:24,06/03/2020 09:41:42,8.0
+Lesson 02-27,Lesson 02,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 09:48:28,06/03/2020 09:49:20,16.0
+Lesson 02-28,Lesson 02,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 14:09:26,06/12/2020 14:11:13,14.0
+Lesson 02-29,Lesson 02,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 14:11:28,06/12/2020 14:12:23,16.0
+Lesson 02-30,Lesson 02,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 19:30:27,06/30/2020 19:33:19,6.0
+Lesson 02-31,Lesson 02,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 19:36:44,06/30/2020 19:37:51,16.0
+Lesson 02-33,Lesson 02,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/12/2020 23:01:57,08/12/2020 23:06:02,14.0
+Lesson 02-34,Lesson 02,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 14:12:11,08/23/2020 14:15:36,16.0
+Lesson 02-35,Lesson 02,Eric Mach,Eric.Mach@edgile.com,Edgile,08/25/2020 21:36:49,08/25/2020 21:38:25,16.0
+Lesson 02-36,Lesson 02,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/26/2020 14:19:04,08/26/2020 14:20:57,16.0
+Lesson 02-37,Lesson 02,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 04:59:09,09/04/2020 05:06:18,14.0
+Lesson 02-38,Lesson 02,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 02:09:59,09/07/2020 02:14:06,12.0
+Lesson 02-39,Lesson 02,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 01:10:29,09/07/2020 06:46:58,10.0
+Lesson 02-40,Lesson 02,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 06:47:30,09/07/2020 06:48:28,14.0
+Lesson 02-41,Lesson 02,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 08:42:50,09/14/2020 08:46:26,16.0
+Lesson 02-42,Lesson 02,Robert Simms,rsimms@securepoint.co.za,SailPoint,09/22/2020 05:18:17,09/22/2020 05:34:31,16.0
+Lesson 02-43,Lesson 02,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 20:19:45,09/29/2020 20:23:40,16.0
+Lesson 02-44,Lesson 02,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/20/2020 00:59:28,10/20/2020 01:29:39,12.0
+Lesson 02-45,Lesson 02,Ravi Makam,ravi.makam@optiv.com,Optiv,10/23/2020 11:31:04,10/23/2020 11:55:30,14.0
+Lesson 02-46,Lesson 02,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/26/2020 11:18:55,10/26/2020 11:31:24,14.0
+Lesson 02-47,Lesson 02,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 12:53:24,10/28/2020 13:07:35,16.0
+Lesson 02-48,Lesson 02,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 13:23:25,11/11/2020 13:28:29,14.0
+Lesson 03-2,Lesson 03,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/14/2020 15:36:03,04/14/2020 15:49:24,6.0
+Lesson 03-3,Lesson 03,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 08:18:46,04/17/2020 08:19:59,6.0
+Lesson 03-4,Lesson 03,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 08:20:21,04/17/2020 08:20:48,10.0
+Lesson 03-5,Lesson 03,Melanie Rios,MRios@focal-point.com,Focal Point,04/17/2020 07:31:53,04/17/2020 09:54:51,6.0
+Lesson 03-6,Lesson 03,Melanie Rios,MRios@focal-point.com,Focal Point,04/17/2020 09:58:12,04/17/2020 09:58:57,10.0
+Lesson 03-7,Lesson 03,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 13:27:26,04/17/2020 13:33:27,6.0
+Lesson 03-8,Lesson 03,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 13:34:16,04/17/2020 13:35:16,10.0
+Lesson 03-9,Lesson 03,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 09:31:11,04/20/2020 09:41:59,6.0
+Lesson 03-10,Lesson 03,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/28/2020 13:17:26,04/28/2020 13:28:00,8.0
+Lesson 03-11,Lesson 03,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/28/2020 13:28:27,04/28/2020 13:42:20,8.0
+Lesson 03-12,Lesson 03,Eric Mach,Eric.Mach@edgile.com,Edgile,04/29/2020 14:37:21,04/29/2020 14:52:55,4.0
+Lesson 03-13,Lesson 03,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 11:56:08,05/01/2020 12:00:07,4.0
+Lesson 03-14,Lesson 03,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:01:08,05/01/2020 12:02:23,8.0
+Lesson 03-15,Lesson 03,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 11:36:08,05/01/2020 12:04:46,10.0
+Lesson 03-16,Lesson 03,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:04:08,05/01/2020 12:04:51,10.0
+Lesson 03-17,Lesson 03,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:22:01,05/01/2020 12:29:57,6.0
+Lesson 03-18,Lesson 03,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:30:16,05/01/2020 12:30:58,10.0
+Lesson 03-19,Lesson 03,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 11:56:20,05/05/2020 11:58:24,6.0
+Lesson 03-20,Lesson 03,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 11:59:14,05/05/2020 12:00:21,10.0
+Lesson 03-21,Lesson 03,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/18/2020 13:07:31,05/18/2020 13:32:12,6.0
+Lesson 03-22,Lesson 03,Briane Bullock,briane@mansfieldllc.com,Mansfield Group,05/18/2020 13:32:34,05/18/2020 13:33:12,10.0
+Lesson 03-23,Lesson 03,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 15:36:32,05/29/2020 15:38:02,4.0
+Lesson 03-24,Lesson 03,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 15:38:40,05/29/2020 15:39:13,10.0
+Lesson 03-25,Lesson 03,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/01/2020 10:05:27,06/01/2020 10:16:55,8.0
+Lesson 03-26,Lesson 03,Phillip Powers,ppowers@novacoast.com,Novacoast,06/03/2020 10:11:05,06/03/2020 10:19:14,6.0
+Lesson 03-27,Lesson 03,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 11:00:55,06/03/2020 11:03:08,10.0
+Lesson 03-28,Lesson 03,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,06/24/2020 08:47:13,06/24/2020 08:48:14,6.0
+Lesson 03-29,Lesson 03,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 19:39:15,06/30/2020 19:43:07,4.0
+Lesson 03-32,Lesson 03,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/05/2020 11:28:25,08/05/2020 11:30:34,6.0
+Lesson 03-33,Lesson 03,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 12:28:27,08/07/2020 12:36:24,2.0
+Lesson 03-34,Lesson 03,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 12:36:53,08/07/2020 12:38:17,8.0
+Lesson 03-35,Lesson 03,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 08:25:17,08/13/2020 08:29:31,6.0
+Lesson 03-36,Lesson 03,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 14:45:09,08/23/2020 14:48:49,6.0
+Lesson 03-37,Lesson 03,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 14:49:44,08/23/2020 15:01:55,10.0
+Lesson 03-38,Lesson 03,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/26/2020 15:06:46,08/26/2020 15:10:30,6.0
+Lesson 03-39,Lesson 03,Eric Mach,Eric.Mach@edgile.com,Edgile,08/29/2020 19:05:45,08/29/2020 19:21:02,2.0
+Lesson 03-40,Lesson 03,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 05:50:06,09/04/2020 05:51:24,4.0
+Lesson 03-41,Lesson 03,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 02:20:17,09/07/2020 02:53:29,6.0
+Lesson 03-42,Lesson 03,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 06:49:51,09/07/2020 07:41:10,4.0
+Lesson 03-43,Lesson 03,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 07:41:45,09/07/2020 07:42:30,10.0
+Lesson 03-44,Lesson 03,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:05:53,09/14/2020 09:09:23,6.0
+Lesson 03-45,Lesson 03,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:09:43,09/14/2020 09:10:14,10.0
+Lesson 03-46,Lesson 03,Robert Simms,rsimms@securepoint.co.za,SailPoint,09/22/2020 08:13:08,09/22/2020 08:29:18,6.0
+Lesson 03-47,Lesson 03,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 20:35:05,09/29/2020 20:36:47,6.0
+Lesson 03-48,Lesson 03,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 20:37:23,09/29/2020 20:38:17,10.0
+Lesson 03-49,Lesson 03,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/20/2020 04:15:55,10/20/2020 04:50:43,6.0
+Lesson 03-50,Lesson 03,Ravi Makam,ravi.makam@optiv.com,Optiv,10/23/2020 11:56:34,10/23/2020 12:09:49,6.0
+Lesson 03-51,Lesson 03,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/26/2020 13:32:55,10/27/2020 13:18:36,6.0
+Lesson 03-52,Lesson 03,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/27/2020 13:18:57,10/27/2020 13:19:55,10.0
+Lesson 03-53,Lesson 03,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 13:07:59,10/28/2020 13:21:43,8.0
+Lesson 03-54,Lesson 03,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 14:14:36,11/11/2020 14:16:33,4.0
+Lesson 03-55,Lesson 03,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 14:17:29,11/11/2020 14:18:41,10.0
+Lesson 04-1,Lesson 04,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/14/2020 16:22:44,04/14/2020 16:36:01,14.0
+Lesson 04-2,Lesson 04,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 09:47:12,04/17/2020 09:48:39,14.0
+Lesson 04-3,Lesson 04,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/17/2020 14:43:30,04/17/2020 14:50:28,12.0
+Lesson 04-4,Lesson 04,Melanie Rios,MRios@focal-point.com,Focal Point,04/19/2020 13:25:38,04/19/2020 15:29:28,12.0
+Lesson 04-5,Lesson 04,Melanie Rios,MRios@focal-point.com,Focal Point,04/19/2020 15:29:50,04/19/2020 15:30:42,14.0
+Lesson 04-6,Lesson 04,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 09:43:58,04/20/2020 11:44:07,14.0
+Lesson 04-7,Lesson 04,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/28/2020 13:43:55,04/28/2020 13:58:34,14.0
+Lesson 04-8,Lesson 04,Eric Mach,Eric.Mach@edgile.com,Edgile,04/29/2020 15:12:51,04/29/2020 20:29:49,12.0
+Lesson 04-9,Lesson 04,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:05:07,05/01/2020 12:11:20,12.0
+Lesson 04-10,Lesson 04,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:12:14,05/01/2020 12:12:56,14.0
+Lesson 04-11,Lesson 04,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 12:05:13,05/01/2020 12:27:39,14.0
+Lesson 04-12,Lesson 04,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:31:30,05/01/2020 12:36:19,12.0
+Lesson 04-13,Lesson 04,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:36:27,05/01/2020 12:36:57,14.0
+Lesson 04-14,Lesson 04,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 12:15:18,05/05/2020 12:17:32,14.0
+Lesson 04-15,Lesson 04,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 15:14:14,05/29/2020 15:24:58,14.0
+Lesson 04-16,Lesson 04,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/01/2020 10:31:24,06/01/2020 10:32:56,14.0
+Lesson 04-17,Lesson 04,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 11:12:50,06/03/2020 11:14:41,6.0
+Lesson 04-18,Lesson 04,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 11:16:56,06/03/2020 11:17:32,14.0
+Lesson 04-19,Lesson 04,Phillip Powers,ppowers@novacoast.com,Novacoast,06/04/2020 08:55:36,06/04/2020 09:02:42,12.0
+Lesson 04-20,Lesson 04,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 19:50:04,06/30/2020 19:52:52,6.0
+Lesson 04-21,Lesson 04,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 19:53:25,06/30/2020 19:54:32,14.0
+Lesson 04-23,Lesson 04,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/06/2020 06:50:50,08/06/2020 06:57:15,4.0
+Lesson 04-24,Lesson 04,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/06/2020 06:57:55,08/06/2020 12:02:34,8.0
+Lesson 04-26,Lesson 04,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 12:40:47,08/07/2020 12:41:56,14.0
+Lesson 04-27,Lesson 04,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 08:44:54,08/13/2020 08:52:40,12.0
+Lesson 04-28,Lesson 04,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 15:55:36,08/23/2020 15:58:09,14.0
+Lesson 04-29,Lesson 04,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 15:58:37,08/23/2020 15:59:18,14.0
+Lesson 04-30,Lesson 04,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/26/2020 18:48:30,08/26/2020 18:49:39,14.0
+Lesson 04-31,Lesson 04,Eric Mach,Eric.Mach@edgile.com,Edgile,08/31/2020 10:07:54,08/31/2020 10:15:10,14.0
+Lesson 04-32,Lesson 04,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 06:08:12,09/04/2020 06:09:51,12.0
+Lesson 04-33,Lesson 04,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 02:54:40,09/07/2020 03:28:40,12.0
+Lesson 04-34,Lesson 04,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 09:00:01,09/07/2020 09:11:01,10.0
+Lesson 04-35,Lesson 04,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 09:11:20,09/07/2020 09:11:59,14.0
+Lesson 04-36,Lesson 04,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:28:34,09/14/2020 09:41:55,14.0
+Lesson 04-37,Lesson 04,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 20:54:23,09/29/2020 20:56:32,14.0
+Lesson 04-38,Lesson 04,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/20/2020 04:56:43,10/20/2020 06:58:45,12.0
+Lesson 04-39,Lesson 04,Ravi Makam,ravi.makam@optiv.com,Optiv,10/23/2020 14:52:02,10/23/2020 14:56:36,14.0
+Lesson 04-40,Lesson 04,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/27/2020 13:20:55,10/27/2020 13:40:04,14.0
+Lesson 04-41,Lesson 04,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 13:31:11,10/28/2020 13:44:19,14.0
+Lesson 04-42,Lesson 04,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 14:48:07,11/11/2020 14:50:46,14.0
+Lesson 05-1,Lesson 05,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/14/2020 16:37:03,04/15/2020 07:21:21,10.0
+Lesson 05-2,Lesson 05,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 10:15:30,04/17/2020 10:16:26,8.0
+Lesson 05-3,Lesson 05,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 10:16:53,04/17/2020 10:17:44,10.0
+Lesson 05-4,Lesson 05,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 12:30:44,04/18/2020 12:31:56,10.0
+Lesson 05-5,Lesson 05,Melanie Rios,MRios@focal-point.com,Focal Point,04/19/2020 15:34:50,04/19/2020 17:51:15,10.0
+Lesson 05-6,Lesson 05,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 11:46:16,04/20/2020 11:55:49,10.0
+Lesson 05-7,Lesson 05,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/28/2020 14:00:31,04/28/2020 14:08:52,8.0
+Lesson 05-8,Lesson 05,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:13:21,05/01/2020 12:18:46,8.0
+Lesson 05-9,Lesson 05,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 12:28:24,05/01/2020 12:36:26,10.0
+Lesson 05-10,Lesson 05,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:37:15,05/01/2020 12:39:42,10.0
+Lesson 05-11,Lesson 05,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 12:27:10,05/05/2020 12:29:29,8.0
+Lesson 05-12,Lesson 05,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 14:58:24,05/29/2020 14:59:49,10.0
+Lesson 05-13,Lesson 05,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/01/2020 10:43:35,06/01/2020 10:47:12,8.0
+Lesson 05-14,Lesson 05,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 11:24:53,06/03/2020 11:26:21,10.0
+Lesson 05-15,Lesson 05,Phillip Powers,ppowers@novacoast.com,Novacoast,06/04/2020 09:15:51,06/04/2020 09:17:30,10.0
+Lesson 05-16,Lesson 05,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 13:35:16,06/12/2020 13:36:30,2.0
+Lesson 05-17,Lesson 05,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 13:36:39,06/12/2020 13:37:30,10.0
+Lesson 05-18,Lesson 05,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:01:09,06/30/2020 20:02:04,2.0
+Lesson 05-19,Lesson 05,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:02:35,06/30/2020 20:03:42,10.0
+Lesson 05-20,Lesson 05,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/06/2020 12:14:16,08/06/2020 12:16:26,8.0
+Lesson 05-22,Lesson 05,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 12:43:42,08/07/2020 12:44:35,8.0
+Lesson 05-24,Lesson 05,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 20:37:32,08/09/2020 20:39:05,6.0
+Lesson 05-25,Lesson 05,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 11:25:32,08/13/2020 11:27:59,10.0
+Lesson 05-26,Lesson 05,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 17:36:43,08/23/2020 17:39:45,8.0
+Lesson 05-27,Lesson 05,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/27/2020 10:10:48,08/27/2020 10:11:57,10.0
+Lesson 05-28,Lesson 05,Eric Mach,Eric.Mach@edgile.com,Edgile,08/31/2020 10:46:26,08/31/2020 10:56:42,10.0
+Lesson 05-29,Lesson 05,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 06:29:41,09/04/2020 06:30:58,10.0
+Lesson 05-30,Lesson 05,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 05:04:17,09/07/2020 05:09:49,8.0
+Lesson 05-31,Lesson 05,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 09:12:40,09/07/2020 09:49:27,10.0
+Lesson 05-32,Lesson 05,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:43:32,09/14/2020 09:50:48,10.0
+Lesson 05-33,Lesson 05,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 21:09:41,09/29/2020 21:11:08,10.0
+Lesson 05-34,Lesson 05,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/21/2020 02:57:06,10/21/2020 03:13:04,8.0
+Lesson 05-35,Lesson 05,Ravi Makam,ravi.makam@optiv.com,Optiv,10/25/2020 11:05:49,10/25/2020 12:04:19,8.0
+Lesson 05-36,Lesson 05,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/27/2020 13:40:52,10/27/2020 13:52:00,10.0
+Lesson 05-37,Lesson 05,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 13:44:40,10/28/2020 13:54:05,10.0
+Lesson 05-38,Lesson 05,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 14:50:59,11/11/2020 15:30:50,10.0
+Lesson 06-1,Lesson 06,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/15/2020 07:24:25,04/15/2020 07:36:55,8.0
+Lesson 06-2,Lesson 06,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 10:24:24,04/17/2020 10:25:09,4.0
+Lesson 06-3,Lesson 06,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 10:26:11,04/17/2020 10:26:38,8.0
+Lesson 06-4,Lesson 06,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 12:37:52,04/18/2020 12:38:43,6.0
+Lesson 06-5,Lesson 06,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 12:39:10,04/18/2020 12:39:35,8.0
+Lesson 06-6,Lesson 06,Melanie Rios,MRios@focal-point.com,Focal Point,04/19/2020 19:26:08,04/19/2020 20:55:08,8.0
+Lesson 06-7,Lesson 06,Melanie Rios,MRios@focal-point.com,Focal Point,04/20/2020 11:57:39,04/20/2020 12:03:37,6.0
+Lesson 06-8,Lesson 06,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/28/2020 14:09:15,04/28/2020 14:14:55,6.0
+Lesson 06-9,Lesson 06,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:21:32,05/01/2020 12:25:37,4.0
+Lesson 06-10,Lesson 06,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:26:12,05/01/2020 12:26:40,8.0
+Lesson 06-11,Lesson 06,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 12:37:35,05/01/2020 12:43:49,8.0
+Lesson 06-12,Lesson 06,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:39:57,05/01/2020 12:45:56,4.0
+Lesson 06-13,Lesson 06,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:46:19,05/01/2020 12:46:54,8.0
+Lesson 06-14,Lesson 06,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 12:38:18,05/05/2020 12:39:17,4.0
+Lesson 06-15,Lesson 06,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/05/2020 12:39:45,05/05/2020 12:41:05,4.0
+Lesson 06-16,Lesson 06,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 10:58:53,05/29/2020 10:59:56,4.0
+Lesson 06-17,Lesson 06,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 11:00:20,05/29/2020 11:01:03,8.0
+Lesson 06-18,Lesson 06,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/01/2020 10:56:30,06/01/2020 10:59:48,8.0
+Lesson 06-19,Lesson 06,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 11:31:10,06/03/2020 11:33:03,6.0
+Lesson 06-20,Lesson 06,Phillip Powers,ppowers@novacoast.com,Novacoast,06/05/2020 09:52:05,06/05/2020 10:08:51,8.0
+Lesson 06-21,Lesson 06,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:04:14,06/30/2020 20:06:48,4.0
+Lesson 06-22,Lesson 06,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:07:32,06/30/2020 20:08:23,8.0
+Lesson 06-24,Lesson 06,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:27:29,08/07/2020 14:28:22,8.0
+Lesson 06-26,Lesson 06,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 20:44:57,08/09/2020 20:45:44,6.0
+Lesson 06-27,Lesson 06,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 11:34:21,08/13/2020 11:36:40,8.0
+Lesson 06-28,Lesson 06,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 17:51:42,08/23/2020 17:54:05,8.0
+Lesson 06-29,Lesson 06,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/27/2020 10:43:43,08/27/2020 10:44:59,8.0
+Lesson 06-30,Lesson 06,Eric Mach,Eric.Mach@edgile.com,Edgile,08/31/2020 11:28:07,08/31/2020 11:29:44,8.0
+Lesson 06-31,Lesson 06,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/04/2020 06:40:51,09/04/2020 06:47:24,4.0
+Lesson 06-32,Lesson 06,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 06:21:14,09/07/2020 06:25:43,6.0
+Lesson 06-33,Lesson 06,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 12:32:13,09/07/2020 12:33:28,6.0
+Lesson 06-34,Lesson 06,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 12:33:44,09/07/2020 12:34:15,8.0
+Lesson 06-35,Lesson 06,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:51:26,09/14/2020 09:56:48,4.0
+Lesson 06-36,Lesson 06,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:56:58,09/14/2020 09:57:23,4.0
+Lesson 06-37,Lesson 06,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 09:57:33,09/14/2020 09:57:58,8.0
+Lesson 06-38,Lesson 06,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/29/2020 21:17:21,09/29/2020 21:18:37,8.0
+Lesson 06-39,Lesson 06,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/21/2020 03:14:06,10/21/2020 03:24:39,2.0
+Lesson 06-40,Lesson 06,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/21/2020 03:25:36,10/21/2020 03:26:20,8.0
+Lesson 06-41,Lesson 06,Ravi Makam,ravi.makam@optiv.com,Optiv,10/25/2020 12:23:11,10/25/2020 12:32:34,6.0
+Lesson 06-42,Lesson 06,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/27/2020 13:53:38,10/27/2020 13:58:11,8.0
+Lesson 06-43,Lesson 06,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 13:54:21,10/28/2020 14:01:41,6.0
+Lesson 06-44,Lesson 06,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 15:38:47,11/11/2020 15:49:13,6.0
+Lesson 0708-1,Lesson 07 & 08,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/15/2020 07:41:26,04/15/2020 10:41:26,8.0
+Lesson 0708-2,Lesson 07 & 08,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 10:49:20,04/17/2020 10:50:38,4.0
+Lesson 0708-3,Lesson 07 & 08,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 11:28:03,04/17/2020 11:28:56,4.0
+Lesson 0708-4,Lesson 07 & 08,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 11:29:19,04/17/2020 11:29:54,8.0
+Lesson 0708-5,Lesson 07 & 08,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 11:35:41,04/17/2020 11:36:08,12.0
+Lesson 0708-6,Lesson 07 & 08,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 13:23:49,04/18/2020 13:34:15,6.0
+Lesson 0708-7,Lesson 07 & 08,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 13:34:50,04/18/2020 13:36:14,12.0
+Lesson 0708-8,Lesson 07 & 08,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 12:05:16,04/20/2020 14:23:56,12.0
+Lesson 0708-9,Lesson 07 & 08,Melanie Rios,MRios@focal-point.com,Focal Point,04/20/2020 14:48:30,04/20/2020 17:18:45,10.0
+Lesson 0708-10,Lesson 07 & 08,Melanie Rios,MRios@focal-point.com,Focal Point,04/20/2020 17:21:37,04/20/2020 17:22:15,12.0
+Lesson 0708-11,Lesson 07 & 08,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/28/2020 14:15:54,04/28/2020 14:45:21,10.0
+Lesson 0708-12,Lesson 07 & 08,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:27:26,05/01/2020 12:45:28,8.0
+Lesson 0708-13,Lesson 07 & 08,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:46:16,05/01/2020 12:47:18,12.0
+Lesson 0708-14,Lesson 07 & 08,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 12:44:18,05/01/2020 13:06:39,12.0
+Lesson 0708-15,Lesson 07 & 08,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 12:47:14,05/01/2020 13:08:00,10.0
+Lesson 0708-16,Lesson 07 & 08,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:08:11,05/01/2020 13:08:51,12.0
+Lesson 0708-17,Lesson 07 & 08,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/07/2020 11:22:06,05/07/2020 11:25:07,8.0
+Lesson 0708-18,Lesson 07 & 08,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/07/2020 11:26:39,05/07/2020 11:28:02,12.0
+Lesson 0708-19,Lesson 07 & 08,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/01/2020 13:41:51,06/01/2020 13:56:44,12.0
+Lesson 0708-20,Lesson 07 & 08,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 11:55:06,06/03/2020 11:57:54,10.0
+Lesson 0708-21,Lesson 07 & 08,Phillip Powers,ppowers@novacoast.com,Novacoast,06/08/2020 08:50:04,06/08/2020 09:08:16,10.0
+Lesson 0708-22,Lesson 07 & 08,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 10:59:23,06/12/2020 11:01:13,2.0
+Lesson 0708-23,Lesson 07 & 08,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 11:01:59,06/12/2020 11:02:57,10.0
+Lesson 0708-24,Lesson 07 & 08,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:09:11,06/30/2020 20:09:56,2.0
+Lesson 0708-25,Lesson 07 & 08,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:10:45,06/30/2020 20:12:07,12.0
+Lesson 0708-27,Lesson 07 & 08,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:32:59,08/07/2020 14:34:07,12.0
+Lesson 0708-28,Lesson 07 & 08,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 21:14:28,08/09/2020 21:16:24,8.0
+Lesson 0708-29,Lesson 07 & 08,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 12:24:30,08/13/2020 12:33:28,8.0
+Lesson 0708-30,Lesson 07 & 08,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 18:53:45,08/23/2020 18:57:39,12.0
+Lesson 0708-31,Lesson 07 & 08,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/27/2020 16:23:58,08/27/2020 16:26:50,12.0
+Lesson 0708-32,Lesson 07 & 08,Eric Mach,Eric.Mach@edgile.com,Edgile,08/31/2020 18:55:56,08/31/2020 18:58:12,10.0
+Lesson 0708-33,Lesson 07 & 08,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 00:39:56,09/07/2020 01:05:29,4.0
+Lesson 0708-34,Lesson 07 & 08,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 06:26:41,09/07/2020 07:07:18,8.0
+Lesson 0708-35,Lesson 07 & 08,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 12:55:34,09/07/2020 13:08:07,6.0
+Lesson 0708-36,Lesson 07 & 08,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 13:08:38,09/07/2020 13:10:07,12.0
+Lesson 0708-37,Lesson 07 & 08,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 10:17:59,09/14/2020 10:36:00,12.0
+Lesson 0708-39,Lesson 07 & 08,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 03:54:54,09/30/2020 03:56:59,8.0
+Lesson 0708-40,Lesson 07 & 08,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 03:57:45,09/30/2020 03:58:31,12.0
+Lesson 0708-41,Lesson 07 & 08,Ravi Makam,ravi.makam@optiv.com,Optiv,10/25/2020 12:40:33,10/25/2020 18:31:43,8.0
+Lesson 0708-42,Lesson 07 & 08,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 14:02:14,10/28/2020 14:20:43,10.0
+Lesson 0708-43,Lesson 07 & 08,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/27/2020 13:59:29,10/29/2020 09:56:07,10.0
+Lesson 0708-44,Lesson 07 & 08,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/11/2020 17:12:26,11/11/2020 17:17:04,10.0
+Lesson 09-1,Lesson 09A & 09B,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/15/2020 11:18:33,04/15/2020 12:02:08,20.0
+Lesson 09-2,Lesson 09A & 09B,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 14:45:41,04/17/2020 14:50:13,10.0
+Lesson 09-3,Lesson 09A & 09B,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/17/2020 14:52:45,04/17/2020 14:54:37,12.0
+Lesson 09-4,Lesson 09A & 09B,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 20:27:37,04/18/2020 20:35:34,10.0
+Lesson 09-5,Lesson 09A & 09B,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 20:36:33,04/18/2020 20:39:00,20.0
+Lesson 09-6,Lesson 09A & 09B,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 14:26:20,04/20/2020 14:49:19,20.0
+Lesson 09-7,Lesson 09A & 09B,Melanie Rios,MRios@focal-point.com,Focal Point,04/20/2020 18:30:34,04/20/2020 20:38:14,20.0
+Lesson 09-8,Lesson 09A & 09B,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/29/2020 12:28:12,04/29/2020 12:47:14,20.0
+Lesson 09-9,Lesson 09A & 09B,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 12:49:42,05/01/2020 13:09:19,14.0
+Lesson 09-10,Lesson 09A & 09B,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:10:16,05/01/2020 13:12:00,20.0
+Lesson 09-11,Lesson 09A & 09B,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 13:07:12,05/01/2020 13:14:32,20.0
+Lesson 09-12,Lesson 09A & 09B,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:09:25,05/01/2020 13:24:20,14.0
+Lesson 09-13,Lesson 09A & 09B,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:25:00,05/01/2020 13:27:05,20.0
+Lesson 09-14,Lesson 09A & 09B,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/07/2020 11:49:07,05/07/2020 11:54:40,10.0
+Lesson 09-15,Lesson 09A & 09B,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/07/2020 11:58:02,05/07/2020 12:01:42,20.0
+Lesson 09-16,Lesson 09A & 09B,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/02/2020 09:31:46,06/02/2020 09:53:07,20.0
+Lesson 09-17,Lesson 09A & 09B,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 12:15:55,06/03/2020 12:20:52,14.0
+Lesson 09-18,Lesson 09A & 09B,Phillip Powers,ppowers@novacoast.com,Novacoast,06/08/2020 12:05:16,06/08/2020 12:38:14,20.0
+Lesson 09-19,Lesson 09A & 09B,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 11:12:46,06/12/2020 11:14:17,0.0
+Lesson 09-20,Lesson 09A & 09B,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 11:18:27,06/12/2020 11:20:25,16.0
+Lesson 09-21,Lesson 09A & 09B,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:15:09,06/30/2020 20:16:42,6.0
+Lesson 09-22,Lesson 09A & 09B,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:17:17,06/30/2020 20:20:22,20.0
+Lesson 09-24,Lesson 09A & 09B,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:35:41,08/07/2020 14:37:26,16.0
+Lesson 09-26,Lesson 09A & 09B,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:39:05,08/07/2020 14:40:15,18.0
+Lesson 09-27,Lesson 09A & 09B,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 21:35:06,08/09/2020 21:39:53,8.0
+Lesson 09-28,Lesson 09A & 09B,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 21:40:27,08/09/2020 21:42:09,14.0
+Lesson 09-29,Lesson 09A & 09B,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 13:02:09,08/13/2020 13:11:49,18.0
+Lesson 09-30,Lesson 09A & 09B,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 19:46:49,08/23/2020 19:55:36,20.0
+Lesson 09-31,Lesson 09A & 09B,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/28/2020 10:01:25,08/28/2020 10:29:26,16.0
+Lesson 09-32,Lesson 09A & 09B,Eric Mach,Eric.Mach@edgile.com,Edgile,08/31/2020 20:51:06,08/31/2020 20:54:24,18.0
+Lesson 09-33,Lesson 09A & 09B,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 01:41:38,09/07/2020 02:09:17,12.0
+Lesson 09-34,Lesson 09A & 09B,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/07/2020 08:21:24,09/07/2020 08:43:13,18.0
+Lesson 09-35,Lesson 09A & 09B,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 13:10:42,09/07/2020 13:34:19,10.0
+Lesson 09-36,Lesson 09A & 09B,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 13:35:46,09/07/2020 13:37:07,16.0
+Lesson 09-37,Lesson 09A & 09B,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 10:39:16,09/14/2020 10:55:55,20.0
+Lesson 09-39,Lesson 09A & 09B,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 05:45:36,09/30/2020 05:53:56,16.0
+Lesson 09-40,Lesson 09A & 09B,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/22/2020 00:33:14,10/22/2020 01:48:57,4.0
+Lesson 09-41,Lesson 09A & 09B,Ravi Makam,ravi.makam@optiv.com,Optiv,10/25/2020 18:32:46,10/25/2020 20:06:09,14.0
+Lesson 09-42,Lesson 09A & 09B,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 14:21:14,10/28/2020 14:37:32,20.0
+Lesson 09-43,Lesson 09A & 09B,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 09:58:13,10/29/2020 10:18:43,20.0
+Lesson 09-44,Lesson 09A & 09B,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/12/2020 07:48:30,11/12/2020 07:53:47,10.0
+Lesson 1011-1,Lesson 10 & 11,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/15/2020 13:10:44,04/16/2020 07:16:32,16.0
+Lesson 1011-2,Lesson 10 & 11,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/18/2020 10:57:20,04/18/2020 11:00:03,10.0
+Lesson 1011-3,Lesson 10 & 11,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/18/2020 11:00:53,04/18/2020 11:02:18,16.0
+Lesson 1011-4,Lesson 10 & 11,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 21:02:00,04/18/2020 21:18:31,12.0
+Lesson 1011-5,Lesson 10 & 11,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/18/2020 21:19:12,04/18/2020 21:20:33,20.0
+Lesson 1011-6,Lesson 10 & 11,Justin Haines,Justin.Haines@optiv.com,Optiv,04/20/2020 18:14:58,04/20/2020 18:37:51,16.0
+Lesson 1011-7,Lesson 10 & 11,Melanie Rios,MRios@focal-point.com,Focal Point,04/21/2020 06:50:56,04/22/2020 18:02:20,12.0
+Lesson 1011-8,Lesson 10 & 11,Melanie Rios,MRios@focal-point.com,Focal Point,04/22/2020 18:06:14,04/22/2020 18:08:18,20.0
+Lesson 1011-9,Lesson 10 & 11,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/29/2020 12:48:27,04/29/2020 13:13:45,16.0
+Lesson 1011-10,Lesson 10 & 11,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:12:21,05/01/2020 13:23:34,16.0
+Lesson 1011-11,Lesson 10 & 11,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:24:21,05/01/2020 13:25:31,20.0
+Lesson 1011-12,Lesson 10 & 11,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:27:26,05/01/2020 13:40:00,20.0
+Lesson 1011-13,Lesson 10 & 11,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 13:25:09,05/01/2020 13:44:30,20.0
+Lesson 1011-14,Lesson 10 & 11,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/07/2020 12:56:50,05/08/2020 09:49:39,8.0
+Lesson 1011-15,Lesson 10 & 11,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 09:55:02,05/08/2020 09:57:54,18.0
+Lesson 1011-16,Lesson 10 & 11,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/02/2020 10:16:51,06/02/2020 10:49:41,12.0
+Lesson 1011-17,Lesson 10 & 11,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/02/2020 10:52:12,06/02/2020 11:17:58,20.0
+Lesson 1011-18,Lesson 10 & 11,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 12:39:47,06/03/2020 12:44:13,12.0
+Lesson 1011-19,Lesson 10 & 11,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/03/2020 12:47:08,06/03/2020 12:48:25,20.0
+Lesson 1011-20,Lesson 10 & 11,Phillip Powers,ppowers@novacoast.com,Novacoast,06/09/2020 07:51:46,06/09/2020 09:13:17,18.0
+Lesson 1011-21,Lesson 10 & 11,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 11:51:08,06/12/2020 11:53:03,6.0
+Lesson 1011-22,Lesson 10 & 11,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 11:54:10,06/12/2020 11:56:15,20.0
+Lesson 1011-23,Lesson 10 & 11,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:20:58,06/30/2020 20:22:04,4.0
+Lesson 1011-24,Lesson 10 & 11,Arpan Panchal,arpan@systemdomaininc.com,System Domain,06/30/2020 20:22:32,06/30/2020 20:24:04,20.0
+Lesson 1011-26,Lesson 10 & 11,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:42:30,08/07/2020 14:44:12,12.0
+Lesson 1011-27,Lesson 10 & 11,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 22:07:00,08/09/2020 22:10:32,14.0
+Lesson 1011-28,Lesson 10 & 11,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 22:11:11,08/09/2020 22:12:55,18.0
+Lesson 1011-29,Lesson 10 & 11,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 13:49:04,08/13/2020 13:55:20,12.0
+Lesson 1011-30,Lesson 10 & 11,Cory Koperski,cory.koperski@optiv.com,Optiv,08/23/2020 20:38:55,08/23/2020 20:50:11,14.0
+Lesson 1011-31,Lesson 10 & 11,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/28/2020 13:56:56,08/28/2020 14:02:35,18.0
+Lesson 1011-32,Lesson 10 & 11,Eric Mach,Eric.Mach@edgile.com,Edgile,08/31/2020 21:15:47,08/31/2020 21:19:14,16.0
+Lesson 1011-33,Lesson 10 & 11,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 02:22:14,09/07/2020 06:39:05,10.0
+Lesson 1011-34,Lesson 10 & 11,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 13:38:46,09/07/2020 14:03:35,14.0
+Lesson 1011-35,Lesson 10 & 11,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 14:04:29,09/07/2020 14:05:20,18.0
+Lesson 1011-36,Lesson 10 & 11,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/08/2020 01:16:12,09/08/2020 01:39:42,16.0
+Lesson 1011-37,Lesson 10 & 11,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 11:05:05,09/14/2020 11:26:45,12.0
+Lesson 1011-38,Lesson 10 & 11,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 11:27:29,09/14/2020 11:28:26,20.0
+Lesson 1011-39,Lesson 10 & 11,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 14:37:56,10/28/2020 14:54:37,18.0
+Lesson 1011-40,Lesson 10 & 11,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 10:20:21,10/29/2020 11:14:28,14.0
+Lesson 1011-41,Lesson 10 & 11,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 11:14:54,10/29/2020 11:16:44,20.0
+Lesson 1011-42,Lesson 10 & 11,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/12/2020 08:52:52,11/12/2020 08:56:17,12.0
+Lesson 12-1,Lesson 12,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/16/2020 07:20:24,04/16/2020 11:19:56,14.0
+Lesson 12-2,Lesson 12,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/18/2020 11:29:33,04/18/2020 11:31:59,8.0
+Lesson 12-3,Lesson 12,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/18/2020 11:32:42,04/18/2020 11:33:22,12.0
+Lesson 12-4,Lesson 12,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 11:24:46,04/19/2020 11:27:50,10.0
+Lesson 12-5,Lesson 12,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 11:28:28,04/19/2020 11:29:13,14.0
+Lesson 12-6,Lesson 12,Melanie Rios,MRios@focal-point.com,Focal Point,04/22/2020 18:18:04,04/22/2020 20:40:11,14.0
+Lesson 12-7,Lesson 12,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/29/2020 13:16:05,04/29/2020 13:28:35,10.0
+Lesson 12-8,Lesson 12,Justin Haines,Justin.Haines@optiv.com,Optiv,05/01/2020 11:28:34,05/01/2020 11:44:35,14.0
+Lesson 12-9,Lesson 12,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:26:25,05/01/2020 13:32:47,14.0
+Lesson 12-10,Lesson 12,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:40:25,05/01/2020 13:45:05,14.0
+Lesson 12-11,Lesson 12,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 13:46:03,05/01/2020 13:51:38,14.0
+Lesson 12-12,Lesson 12,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 10:13:12,05/08/2020 10:16:04,10.0
+Lesson 12-13,Lesson 12,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 10:18:14,05/08/2020 10:19:21,14.0
+Lesson 12-14,Lesson 12,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/02/2020 11:22:56,06/02/2020 11:48:29,14.0
+Lesson 12-15,Lesson 12,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 10:31:11,06/04/2020 10:33:08,14.0
+Lesson 12-16,Lesson 12,Phillip Powers,ppowers@novacoast.com,Novacoast,06/10/2020 07:47:24,06/10/2020 07:59:29,14.0
+Lesson 12-17,Lesson 12,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 12:59:12,06/12/2020 13:00:09,8.0
+Lesson 12-18,Lesson 12,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 13:00:22,06/12/2020 13:01:33,14.0
+Lesson 12-19,Lesson 12,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 11:22:35,07/09/2020 11:23:43,2.0
+Lesson 12-20,Lesson 12,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 11:24:28,07/09/2020 11:26:20,12.0
+Lesson 12-22,Lesson 12,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:45:17,08/07/2020 14:46:51,10.0
+Lesson 12-23,Lesson 12,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 22:26:39,08/09/2020 22:27:53,10.0
+Lesson 12-24,Lesson 12,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 16:08:19,08/13/2020 16:15:28,12.0
+Lesson 12-25,Lesson 12,Cory Koperski,cory.koperski@optiv.com,Optiv,08/24/2020 06:03:30,08/24/2020 06:06:16,14.0
+Lesson 12-26,Lesson 12,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/28/2020 14:43:31,08/28/2020 14:45:47,14.0
+Lesson 12-27,Lesson 12,Eric Mach,Eric.Mach@edgile.com,Edgile,09/01/2020 20:25:11,09/01/2020 20:27:36,14.0
+Lesson 12-28,Lesson 12,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 06:41:50,09/07/2020 07:05:00,10.0
+Lesson 12-29,Lesson 12,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/07/2020 14:07:55,09/07/2020 14:15:13,12.0
+Lesson 12-30,Lesson 12,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/08/2020 01:40:25,09/08/2020 02:01:17,12.0
+Lesson 12-31,Lesson 12,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 11:37:28,09/14/2020 11:48:00,14.0
+Lesson 12-32,Lesson 12,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 22:47:23,09/30/2020 22:50:39,8.0
+Lesson 12-33,Lesson 12,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 22:51:55,09/30/2020 22:54:09,14.0
+Lesson 12-34,Lesson 12,Pooja Prakash,PPrakash@herjavecgroup.com,Herjavec Group,10/23/2020 02:20:54,10/23/2020 02:24:13,12.0
+Lesson 12-35,Lesson 12,David Muehling,dmuehling@novacoast.com,Novacoast,10/28/2020 14:57:01,10/28/2020 15:09:05,14.0
+Lesson 12-36,Lesson 12,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 11:18:01,10/29/2020 11:28:46,14.0
+Lesson 12-37,Lesson 12,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/12/2020 09:11:38,11/12/2020 10:03:20,14.0
+Lesson 13-1,Lesson 13,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/16/2020 12:00:37,04/16/2020 13:02:35,6.0
+Lesson 13-2,Lesson 13,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/18/2020 11:48:28,04/18/2020 11:49:49,2.0
+Lesson 13-3,Lesson 13,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/18/2020 11:50:12,04/18/2020 11:50:34,6.0
+Lesson 13-4,Lesson 13,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 11:38:36,04/19/2020 11:40:47,6.0
+Lesson 13-5,Lesson 13,Melanie Rios,MRios@focal-point.com,Focal Point,04/23/2020 07:15:34,04/23/2020 19:35:17,8.0
+Lesson 13-6,Lesson 13,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/29/2020 13:30:27,04/29/2020 13:39:11,8.0
+Lesson 13-7,Lesson 13,Justin Haines,Justin.Haines@optiv.com,Optiv,05/01/2020 11:47:19,05/01/2020 12:04:56,6.0
+Lesson 13-8,Lesson 13,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:33:55,05/01/2020 13:38:38,6.0
+Lesson 13-9,Lesson 13,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:39:21,05/01/2020 13:40:01,8.0
+Lesson 13-10,Lesson 13,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:45:39,05/01/2020 13:53:07,6.0
+Lesson 13-11,Lesson 13,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:53:23,05/01/2020 13:54:09,8.0
+Lesson 13-12,Lesson 13,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 13:52:29,05/01/2020 14:01:38,8.0
+Lesson 13-13,Lesson 13,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 11:04:25,05/08/2020 11:07:05,2.0
+Lesson 13-14,Lesson 13,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 11:08:04,05/08/2020 11:08:55,8.0
+Lesson 13-15,Lesson 13,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/02/2020 11:54:20,06/02/2020 12:05:50,8.0
+Lesson 13-16,Lesson 13,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 10:48:14,06/04/2020 10:50:39,4.0
+Lesson 13-17,Lesson 13,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 10:53:04,06/04/2020 10:53:30,8.0
+Lesson 13-18,Lesson 13,Phillip Powers,ppowers@novacoast.com,Novacoast,06/10/2020 08:02:40,06/10/2020 09:09:19,6.0
+Lesson 13-19,Lesson 13,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 13:51:53,06/12/2020 13:52:46,2.0
+Lesson 13-21,Lesson 13,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 11:34:59,07/09/2020 11:35:54,4.0
+Lesson 13-22,Lesson 13,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 11:36:26,07/09/2020 11:37:24,8.0
+Lesson 13-24,Lesson 13,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:47:18,08/07/2020 14:49:11,8.0
+Lesson 13-25,Lesson 13,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 22:37:51,08/09/2020 22:38:44,6.0
+Lesson 13-26,Lesson 13,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 21:58:34,08/13/2020 22:00:39,4.0
+Lesson 13-27,Lesson 13,Cory Koperski,cory.koperski@optiv.com,Optiv,08/24/2020 06:19:56,08/24/2020 06:23:26,6.0
+Lesson 13-28,Lesson 13,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/28/2020 15:32:55,08/28/2020 15:34:22,8.0
+Lesson 13-29,Lesson 13,Eric Mach,Eric.Mach@edgile.com,Edgile,09/01/2020 20:47:03,09/01/2020 20:48:36,6.0
+Lesson 13-30,Lesson 13,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 07:15:32,09/07/2020 07:24:17,4.0
+Lesson 13-31,Lesson 13,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/08/2020 00:46:27,09/08/2020 02:12:22,2.0
+Lesson 13-32,Lesson 13,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/08/2020 02:05:28,09/08/2020 02:12:35,6.0
+Lesson 13-33,Lesson 13,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/08/2020 02:12:38,09/08/2020 02:13:07,6.0
+Lesson 13-34,Lesson 13,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 11:51:09,09/14/2020 11:59:44,6.0
+Lesson 13-35,Lesson 13,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 23:03:26,09/30/2020 23:05:35,6.0
+Lesson 13-36,Lesson 13,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 11:32:31,10/29/2020 11:52:37,6.0
+Lesson 13-37,Lesson 13,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 11:53:26,10/29/2020 11:55:56,8.0
+Lesson 13-38,Lesson 13,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/12/2020 10:13:06,11/12/2020 10:22:29,8.0
+Lesson 14-1,Lesson 14,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/16/2020 13:03:36,04/16/2020 14:33:33,16.0
+Lesson 14-2,Lesson 14,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 11:58:41,04/19/2020 12:02:08,10.0
+Lesson 14-3,Lesson 14,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 12:02:45,04/19/2020 12:03:36,16.0
+Lesson 14-4,Lesson 14,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/19/2020 17:06:25,04/19/2020 17:08:37,12.0
+Lesson 14-5,Lesson 14,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/19/2020 17:09:01,04/19/2020 17:10:24,14.0
+Lesson 14-6,Lesson 14,Melanie Rios,MRios@focal-point.com,Focal Point,04/23/2020 19:39:51,04/23/2020 22:48:38,14.0
+Lesson 14-7,Lesson 14,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/29/2020 13:39:38,04/29/2020 13:55:46,14.0
+Lesson 14-8,Lesson 14,Justin Haines,Justin.Haines@optiv.com,Optiv,05/01/2020 12:06:48,05/01/2020 12:23:47,16.0
+Lesson 14-9,Lesson 14,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:40:25,05/01/2020 13:50:58,10.0
+Lesson 14-10,Lesson 14,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:52:21,05/01/2020 13:53:39,16.0
+Lesson 14-11,Lesson 14,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:54:27,05/01/2020 13:58:37,14.0
+Lesson 14-12,Lesson 14,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 13:59:16,05/01/2020 14:00:28,16.0
+Lesson 14-13,Lesson 14,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 14:02:09,05/01/2020 14:13:06,16.0
+Lesson 14-14,Lesson 14,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 14:48:38,05/08/2020 15:44:40,8.0
+Lesson 14-15,Lesson 14,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/08/2020 15:46:38,05/08/2020 15:48:32,14.0
+Lesson 14-16,Lesson 14,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 11:12:11,06/04/2020 11:14:22,10.0
+Lesson 14-17,Lesson 14,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 11:16:23,06/04/2020 11:17:10,16.0
+Lesson 14-18,Lesson 14,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/05/2020 09:32:07,06/05/2020 09:51:27,14.0
+Lesson 14-19,Lesson 14,Phillip Powers,ppowers@novacoast.com,Novacoast,06/10/2020 09:10:02,06/10/2020 12:55:36,16.0
+Lesson 14-20,Lesson 14,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 13:21:35,06/12/2020 13:23:47,8.0
+Lesson 14-21,Lesson 14,Anil Garg,agarg@systemdomaininc.com,System Domain,06/12/2020 13:24:11,06/12/2020 13:26:13,16.0
+Lesson 14-22,Lesson 14,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 11:38:52,07/09/2020 12:02:49,12.0
+Lesson 14-23,Lesson 14,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 12:04:19,07/09/2020 12:05:17,14.0
+Lesson 14-24,Lesson 14,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 12:05:44,07/09/2020 12:06:48,16.0
+Lesson 14-26,Lesson 14,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:49:27,08/07/2020 14:50:46,8.0
+Lesson 14-27,Lesson 14,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/13/2020 22:17:20,08/13/2020 22:26:58,8.0
+Lesson 14-28,Lesson 14,Cory Koperski,cory.koperski@optiv.com,Optiv,08/24/2020 06:45:00,08/24/2020 06:51:34,14.0
+Lesson 14-29,Lesson 14,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/28/2020 17:37:04,08/28/2020 17:40:00,16.0
+Lesson 14-30,Lesson 14,Eric Mach,Eric.Mach@edgile.com,Edgile,09/01/2020 21:28:01,09/01/2020 21:34:50,12.0
+Lesson 14-31,Lesson 14,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 07:31:40,09/07/2020 08:10:39,12.0
+Lesson 14-32,Lesson 14,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/08/2020 02:14:42,09/08/2020 03:13:25,14.0
+Lesson 14-33,Lesson 14,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/08/2020 07:17:34,09/08/2020 07:21:51,10.0
+Lesson 14-34,Lesson 14,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/08/2020 07:22:17,09/08/2020 07:23:36,16.0
+Lesson 14-35,Lesson 14,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 13:07:39,09/14/2020 13:24:23,16.0
+Lesson 14-36,Lesson 14,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,09/30/2020 23:26:26,09/30/2020 23:31:02,14.0
+Lesson 14-37,Lesson 14,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 12:45:21,10/29/2020 15:29:21,14.0
+Lesson 14-38,Lesson 14,Caitlin Hanson,caitlin.hanson@levelupconsult.com,LevelUp,11/12/2020 10:23:07,11/12/2020 10:40:48,14.0
+Lesson 16-4,Lesson 16A & 16B,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 12:37:32,04/19/2020 12:42:51,10.0
+Lesson 16-5,Lesson 16A & 16B,Thrinaath Vajragowni,thrinaath.vajragowni@credenceia.com,CredenceIA,04/19/2020 12:43:58,04/19/2020 12:45:46,18.0
+Lesson 16-6,Lesson 16A & 16B,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/19/2020 17:46:49,04/19/2020 17:49:06,10.0
+Lesson 16-7,Lesson 16A & 16B,Tim Neatrour,Tim.Neatrour@credenceia.com,CredenceIA,04/19/2020 17:49:45,04/19/2020 17:51:16,14.0
+Lesson 16-8,Lesson 16A & 16B,Faye Jacobs,faye.jacobs@optiv.com,Optiv,04/20/2020 06:21:07,04/20/2020 07:58:43,14.0
+Lesson 16-9,Lesson 16A & 16B,Melanie Rios,MRios@focal-point.com,Focal Point,04/26/2020 13:28:29,04/26/2020 13:39:37,12.0
+Lesson 16-10,Lesson 16A & 16B,Melanie Rios,MRios@focal-point.com,Focal Point,04/26/2020 13:47:07,04/26/2020 13:52:23,16.0
+Lesson 16-11,Lesson 16A & 16B,Marc McGee,marc.mcgee@mansfieldllc.com,Mansfield Group,04/30/2020 13:55:32,04/30/2020 15:16:07,14.0
+Lesson 16-12,Lesson 16A & 16B,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 13:54:14,05/01/2020 14:06:13,12.0
+Lesson 16-13,Lesson 16A & 16B,Kevin Converse,kconverse@secureitsource.com,SecureIT Source,05/01/2020 14:07:28,05/01/2020 14:08:40,20.0
+Lesson 16-14,Lesson 16A & 16B,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 14:00:54,05/01/2020 14:17:27,16.0
+Lesson 16-15,Lesson 16A & 16B,Jonathan Llovet,jllovet@secureitsource.com,SecureIT Source,05/01/2020 14:17:47,05/01/2020 14:20:18,20.0
+Lesson 16-16,Lesson 16A & 16B,Victor Balling,vballing@secureitsource.com,SecureIT Source,05/01/2020 14:24:47,05/01/2020 14:42:46,20.0
+Lesson 16-17,Lesson 16A & 16B,Justin Haines,Justin.Haines@optiv.com,Optiv,05/01/2020 12:38:09,05/04/2020 07:20:04,18.0
+Lesson 16-18,Lesson 16A & 16B,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/11/2020 07:44:03,05/11/2020 07:50:21,12.0
+Lesson 16-19,Lesson 16A & 16B,Prasad Thriveedhi,prasad.thriveedhi@idmworks.com,IDMWorks,05/11/2020 07:52:05,05/11/2020 07:53:52,20.0
+Lesson 16-20,Lesson 16A & 16B,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 10:44:24,05/29/2020 10:48:58,6.0
+Lesson 16-21,Lesson 16A & 16B,Anil Garg,agarg@systemdomaininc.com,System Domain,05/29/2020 10:50:37,05/29/2020 10:52:37,18.0
+Lesson 16-22,Lesson 16A & 16B,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 11:43:28,06/04/2020 11:47:43,10.0
+Lesson 16-23,Lesson 16A & 16B,D Baldus,dbaldus@stacksolutions.com,Stack Solutions,06/04/2020 11:50:50,06/04/2020 11:52:02,18.0
+Lesson 16-24,Lesson 16A & 16B,Tim Jr. Spires,tspiresjr@novacoast.com,Novacoast,06/08/2020 08:41:38,06/08/2020 09:25:34,18.0
+Lesson 16-25,Lesson 16A & 16B,Phillip Powers,ppowers@novacoast.com,Novacoast,06/11/2020 07:42:53,06/11/2020 09:07:21,18.0
+Lesson 16-26,Lesson 16A & 16B,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 12:08:18,07/09/2020 15:29:07,12.0
+Lesson 16-27,Lesson 16A & 16B,Arpan Panchal,arpan@systemdomaininc.com,System Domain,07/09/2020 15:29:42,07/09/2020 15:31:14,20.0
+Lesson 16-29,Lesson 16A & 16B,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/07/2020 14:52:13,08/07/2020 14:53:37,18.0
+Lesson 16-30,Lesson 16A & 16B,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 23:11:23,08/09/2020 23:13:03,4.0
+Lesson 16-31,Lesson 16A & 16B,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 23:13:38,08/09/2020 23:14:58,12.0
+Lesson 16-32,Lesson 16A & 16B,Rick Vienngxay,Ricky.viengxay@s3.consulting,S3,08/09/2020 23:15:25,08/09/2020 23:16:32,18.0
+Lesson 16-33,Lesson 16A & 16B,Prasad Kamatam,prasad.kamatam@optiv.com,Optiv,08/14/2020 07:33:58,08/14/2020 07:39:17,10.0
+Lesson 16-34,Lesson 16A & 16B,Cory Koperski,cory.koperski@optiv.com,Optiv,08/24/2020 07:25:50,08/24/2020 07:47:18,20.0
+Lesson 16-35,Lesson 16A & 16B,Saurabh Rajpathak,saurabh.rajpathak@edgile.com,Edgile,08/29/2020 16:23:09,08/29/2020 16:26:46,18.0
+Lesson 16-36,Lesson 16A & 16B,Eric Mach,Eric.Mach@edgile.com,Edgile,09/03/2020 20:31:59,09/03/2020 20:57:43,18.0
+Lesson 16-37,Lesson 16A & 16B,Tom Kelly,TKelly@herjavecgroup.com,Herjavec Group,09/07/2020 08:11:07,09/08/2020 02:27:02,12.0
+Lesson 16-38,Lesson 16A & 16B,Mike Spenceley,MSpenceley@herjavecgroup.com,Herjavec Group,09/08/2020 03:14:24,09/08/2020 05:29:49,10.0
+Lesson 16-39,Lesson 16A & 16B,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/09/2020 00:42:29,09/09/2020 01:02:20,8.0
+Lesson 16-40,Lesson 16A & 16B,Yasmeen Taj,YTaj@herjavecgroup.com,Herjavec Group,09/09/2020 01:03:02,09/09/2020 01:04:43,16.0
+Lesson 16-41,Lesson 16A & 16B,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 13:29:37,09/14/2020 13:56:56,14.0
+Lesson 16-42,Lesson 16A & 16B,Allison Ford,allison.ford@edgile.com,Edgile,09/14/2020 13:57:54,09/14/2020 13:59:23,18.0
+Lesson 16-43,Lesson 16A & 16B,Sameer Raghuraj,sameer.raghuraj@edgile.com,Edgile,10/01/2020 00:05:59,10/01/2020 00:09:15,16.0
+Lesson 16-44,Lesson 16A & 16B,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/29/2020 15:36:46,10/30/2020 10:39:47,14.0
+Lesson 16-45,Lesson 16A & 16B,Anshita Mittal,Anshita.Mittal@optiv.com,Optiv,10/30/2020 10:40:13,10/30/2020 10:43:52,20.0
