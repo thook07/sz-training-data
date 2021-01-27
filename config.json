@@ -1,4 +1,8 @@
 {
+    "quiz_directory": "quizData",
+    "output_directory": "data",
+    "training_data_file_name": "training_data.csv",
+    "fixes_file_name": "fixes.csv",
     "seczetta_environment": {
         "name":"seczetta",
         "url": "https://seczetta.nonemployee.com",
@@ -6,8 +10,6 @@
         "api_key": "54248d66a9c742a7958045fcbd816266",
         "partner_profile_type_id": "b3858d75-e3f3-11ea-9fb2-1292d4bf5de5"
     },
-    "training_data_file_name": "training_data.csv",
-    "fixes_file_name": "fixes.csv",
     "quiz_data": {
         "101": {
             "file_name": "Check Your Knowledge_ SecZetta 101",

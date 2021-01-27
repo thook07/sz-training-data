@@ -21,6 +21,8 @@ class Config:
     QuizData = {}
     TrainingDataFile = ""
     FixesFile = ""
+    QuizDirectory = ""
+    OutputDirectory = ""
  
 CONFIG = Config()
 
@@ -30,20 +32,24 @@ def welcome():
 
 def writeLine(line, new = False):
     global CONFIG
+    scriptDir = os.path.dirname(__file__) #<-- absolute dir the script is in
     filename = CONFIG.TrainingDataFile
-    if os.path.exists(filename):
+    filePath = CONFIG.OutputDirectory + "/" + filename
+    absFilePath = os.path.join(scriptDir, filePath)
+    if os.path.exists(absFilePath):
         append_write = 'a' # append if already exists
     else:
         append_write = 'w' # make a new file if not
 
+
     if new:
         append_write = 'w'
-        combinedFile = open(filename,append_write)
+        combinedFile = open(absFilePath,append_write)
         combinedFile.truncate(0)
         combinedFile.write('attempt_id,quiz_name,name,email,org,start_date,complete_date,total_score\n')
         combinedFile.close()
     else:
-        combinedFile = open(filename,append_write)
+        combinedFile = open(absFilePath, append_write)
         combinedFile.write(line + "\n")
 
 def createTempFileName(suffix):
@@ -71,7 +77,11 @@ def grabPartnerData():
     temp.write("{ \"partners\": [")
     numRows = 0
 
+    scriptDir = os.path.dirname(__file__) #<-- absolute dir the script is in
     fileName = "partners.csv"
+    filePath = CONFIG.OutputDirectory + "/" + fileName
+    absFilePath = os.path.join(scriptDir, filePath)
+    
     while(done == False):
         loops += 1
         response = sendAPIRequest(CONFIG, "GET", CONFIG.ApiUrl + "/profiles?profile_type_id="+CONFIG.PartnerProfileTypeId+"&query[limit]="+str(limit)+"&query[offset]="+str(offset),{})
@@ -93,7 +103,7 @@ def grabPartnerData():
     #Finished grabbing ALL partners
     with open(tempDataFile) as f:
         data = json.load(f)
-        f = open(fileName, "w")
+        f = open(absFilePath, "w")
         #write the header first
         attributes = [
             "corporate_email",
@@ -146,14 +156,16 @@ def processQuizData():
     writeLine('',True)
     # Loop thru quiz map and write to the file
     issues = 0
+    scriptDir = os.path.dirname(__file__) #<-- absolute dir the script is in
+    absPath = os.path.join(scriptDir, CONFIG.QuizDirectory)
     for quizId in CONFIG.QuizData:
         foundQuiz = False
-        for fileName in sorted(os.listdir()):
+        for fileName in sorted(os.listdir(absPath)):
             if fileName.endswith('.xlsx') and not(fileName.startswith("~")):
                 if CONFIG.QuizData[quizId]["file_name"] in fileName:
                     foundQuiz = True
                     displayText("Found " + quizId + ". Processing...")
-                    wb = xlrd.open_workbook(fileName)
+                    wb = xlrd.open_workbook(absPath + "/" + fileName)
                     sheet = wb.sheet_by_index(0)
                     attempts = 0
                     found = 0
@@ -192,7 +204,7 @@ def processQuizData():
             exit("ERROR - File Not Found: " + CONFIG.QuizData[quizId]["display_name"] + " has not been processed. Is the Excel file downloaded?")       
     displayText("Analyzing Quiz Results", True)
     displayText(str(QUIZ_ATTEMPTS) + " quiz attempts were processed.")
-    displayText("All Quiz Data was written to " + str(CONFIG.TrainingDataFile))
+    displayText("All Quiz Data was written to " + str(CONFIG.OutputDirectory) + "/" str(CONFIG.TrainingDataFile))
 
 def loadConfig():
     displayText("Loading Configuration...", True)
@@ -206,6 +218,8 @@ def loadConfig():
     CONFIG.QuizData = data["quiz_data"]
     CONFIG.TrainingDataFile = data["training_data_file_name"]
     CONFIG.FixesFile = data["fixes_file_name"]
+    CONFIG.QuizDirectory = data["quiz_directory"]
+    CONFIG.OutputDirectory = data["output_directory"]
     displayText("...Done")
     f.close() 
 
@@ -290,4 +304,3 @@ welcome()
 loadConfig()      
 grabPartnerData() ## remember to uncomment the API Call
 processQuizData()
-
