@@ -1,4 +1,3 @@
-# Reading an excel file using Python
 import xlrd
 import os
 from os import path
