@@ -39,7 +39,7 @@
             "complete_time_col": 2,
             "total_points_col": 5,
             "total_points_possible": 8,
-            "passing_percent": 0.8
+            "passing_percent": 0.7
          },
          "Lesson 01": {
             "file_name": "Lesson 01_ User Management System_Knowledge Check",
@@ -49,7 +49,7 @@
             "complete_time_col": 2,
             "total_points_col": 5,
             "total_points_possible": 8,
-            "passing_percent": 0.8
+            "passing_percent": 0.7
          },
          "Lesson 02": {
             "file_name": "Lesson 02_ Attributes - Part 1_Knowledge Check",
@@ -59,7 +59,7 @@
             "complete_time_col": 2,
             "total_points_col": 5,
             "total_points_possible": 16,
-            "passing_percent": 0.8
+            "passing_percent": 0.7
          },
          "Lesson 03": {
             "file_name": "Lesson 03_ Identity Store- Profile Types _Knowledge Check",
